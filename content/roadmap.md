@@ -12,18 +12,19 @@ no nosso Discord, e cada item vira um pull request aberto no GitHub.
 - [x] Alt+Tab **Folhear**, com as janelas como folhas de um livro
 - [x] Atalhos com a tecla Super (Win), página de **Atalhos** e de **Inicialização**
 - [x] Arrastar, soltar e **ordenar** arquivos, data na barra, bandeja com os apps de sempre
+- [x] **Calendário** ao clicar na data da barra
 
 ### 28/09 a 11/10 · Primeira versão pública
 
 - [ ] ISO 2026.09 para download, com torrent
-- [ ] **Atualizações sem terminal**: aviso na barra e botão "Atualizar"
+- [x] **Atualizações sem terminal**: aviso na barra e botão "Atualizar"
 - [ ] Correções dos primeiros relatos da comunidade
 
 ### 12/10 a 25/10 · Configurações rápidas
 
-- [ ] Brilho, volume, Wi-Fi, Bluetooth, modo escuro e não perturbe num só painel
-- [ ] **Luz noturna** (filtro de luz azul) com horário automático
-- [ ] Troca do layout do teclado pela barra (ABNT2, US internacional…)
+- [x] Brilho, volume, Wi-Fi, Bluetooth, modo escuro e não perturbe num só painel
+- [x] **Luz noturna** (filtro de luz azul) com horário automático
+- [x] Troca do layout do teclado pela barra (ABNT2, US internacional…)
 
 ### 26/10 a 15/11 · Boas-vindas
 
