@@ -1,0 +1,13 @@
+{
+  "name": "ArchLingmo",
+  "tagline": "O desktop Lingmo em Qt 6, sobre o Arch Linux.",
+  "version": "2026.09",
+  "iso": {
+    "url": "",
+    "size": "2,1 GB",
+    "sha256": ""
+  },
+  "discord": "",
+  "github": "https://github.com/devalexandre/lingmo-desktop",
+  "repo": "https://devalexandre.github.io/archlingmo-repo"
+}

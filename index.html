@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ArchLingmo</title>
+  <meta name="description" content="ArchLingmo: o desktop Lingmo em Qt 6, sobre o Arch Linux. Download, requisitos e capturas de tela.">
+  <meta property="og:title" content="ArchLingmo">
+  <meta property="og:description" content="O desktop Lingmo em Qt 6, sobre o Arch Linux.">
+  <meta property="og:image" content="assets/hero.jpg">
+  <link rel="icon" href="assets/logo.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked@14.1.4/marked.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav">
+      <a class="brand" href="#"><img src="assets/logo-white.png" alt="Lingmo"></a>
+      <div class="links">
+        <a href="#sobre">Sobre</a>
+        <a href="#download">Download</a>
+        <a href="#requisitos">Requisitos</a>
+        <a href="#capturas">Capturas</a>
+        <a href="#videos">Vídeos</a>
+        <a href="#comunidade">Comunidade</a>
+      </div>
+    </nav>
+
+    <div class="hero-content">
+      <h1 id="site-name">ArchLingmo</h1>
+      <p id="site-tagline" class="tagline">O desktop Lingmo em Qt 6, sobre o Arch Linux.</p>
+      <div class="actions">
+        <a id="download-button" class="button primary" href="#download">Baixar ISO</a>
+        <a id="discord-button" class="button" href="#comunidade">Discord</a>
+        <a id="github-button" class="button" href="https://github.com/devalexandre/lingmo-desktop">GitHub</a>
+      </div>
+      <p id="iso-meta" class="meta"></p>
+    </div>
+  </header>
+
+  <main>
+    <section id="sobre" class="section" data-md="content/intro.md"></section>
+    <section id="download" class="section" data-md="content/download.md"></section>
+    <section id="requisitos" class="section" data-md="content/requisitos.md"></section>
+    <section id="capturas" class="section gallery" data-md="content/screenshots.md"></section>
+    <section id="videos" class="section videos" data-md="content/videos.md"></section>
+    <section id="comunidade" class="section" data-md="content/comunidade.md"></section>
+  </main>
+
+  <footer class="footer">
+    <p>ArchLingmo é um projeto comunitário baseado no <a href="https://lingmo.org">Lingmo OS</a>.
+       Código livre sob a GPL.</p>
+  </footer>
+
+  <dialog id="lightbox" aria-label="Captura de tela ampliada">
+    <img alt="">
+  </dialog>
+</body>
+</html>
