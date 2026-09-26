@@ -222,6 +222,32 @@ dialog#lightbox img { max-width: 94vw; max-height: 94vh; border-radius: 12px; di
   background: #000000;
 }
 
+/* Roadmap: task lists from the Markdown checklists */
+
+.roadmap h3 { margin-top: 28px; }
+
+.roadmap ul { list-style: none; padding-left: 0; }
+
+.roadmap li { position: relative; padding-left: 30px; }
+
+.roadmap li input[type="checkbox"] {
+  appearance: none;
+  position: absolute;
+  left: 0;
+  top: 3px;
+  margin: 0;
+  width: 18px;
+  height: 18px;
+  border-radius: 6px;
+  border: 2px solid var(--border);
+  background: var(--code-bg);
+}
+
+.roadmap li input[type="checkbox"]:checked {
+  border-color: var(--accent);
+  background: var(--accent) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.5l3 3 6-7' fill='none' stroke='white' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 12px no-repeat;
+}
+
 /* Footer */
 
 .footer {
