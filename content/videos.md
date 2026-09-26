@@ -1,8 +1,10 @@
 ## Vídeos
 
-<!--
-  Cole um link do YouTube por linha, no formato de lista. Cada link vira um player:
+- [Lingmo OS: o Linux com cara de macOS, baseado em Arch Linux!](https://youtu.be/RYMOQKSCisI)
 
-  - [Conhecendo o ArchLingmo](https://www.youtube.com/watch?v=XXXXXXXXXXX)
-  - [Instalando numa máquina virtual](https://youtu.be/XXXXXXXXXXX)
+<!--
+  Para adicionar mais vídeos, cole um link do YouTube por linha, nesta lista.
+  Cada link vira um player:
+
+  - [Título do vídeo](https://youtu.be/XXXXXXXXXXX)
 -->
