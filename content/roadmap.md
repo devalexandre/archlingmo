@@ -33,10 +33,10 @@ no nosso Discord, e cada item vira um pull request aberto no GitHub.
 
 ### 16/11 a 06/12 · Produtividade
 
-- [ ] **Cantos ativos**: leve o mouse a um canto para ver todas as janelas
-- [ ] **Histórico da área de transferência** (Super + V)
-- [ ] Menu global também para apps GTK
-- [ ] Som pelo PipeWire por padrão
+- [x] **Cantos ativos**: leve o mouse a um canto para ver todas as janelas
+- [x] **Histórico da área de transferência** (Super + V)
+- [x] Menu global também para apps GTK
+- [x] Som pelo PipeWire por padrão
 
 ### 07/12 a 31/01 · Mais poder no dia a dia
 
@@ -44,7 +44,13 @@ no nosso Discord, e cada item vira um pull request aberto no GitHub.
 - [ ] Prévia das janelas ao passar o mouse na dock
 - [ ] **Gravação de tela** no app de capturas
 
-### A partir de fevereiro de 2027
+### 01/02 a 15/03/2027 · Câmera e biometria
+
+- [ ] **Enquadramento automático** da câmera: segue o seu rosto nas reuniões, em qualquer app
+- [ ] Desfoque de fundo na câmera
+- [ ] **Leitor de digital** para entrar, desbloquear a tela e autorizar senhas de administrador
+
+### A partir de março de 2027
 
 - [ ] Loja de aplicativos
 - [ ] Backup com um clique
