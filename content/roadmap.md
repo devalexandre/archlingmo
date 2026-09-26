@@ -16,9 +16,8 @@ no nosso Discord, e cada item vira um pull request aberto no GitHub.
 
 ### 28/09 a 11/10 · Primeira versão pública
 
-- [ ] ISO 2026.09 para download, com torrent
+- [x] ISO 2026.09 para download, com torrent
 - [x] **Atualizações sem terminal**: aviso na barra e botão "Atualizar"
-- [ ] Correções dos primeiros relatos da comunidade
 
 ### 12/10 a 25/10 · Configurações rápidas
 
@@ -28,8 +27,8 @@ no nosso Discord, e cada item vira um pull request aberto no GitHub.
 
 ### 26/10 a 15/11 · Boas-vindas
 
-- [ ] **App de boas-vindas** no primeiro login: tema, papel de parede, efeitos e atalhos
-- [ ] Tradução completa para o português
+- [x] **App de boas-vindas** no primeiro login: tema, papel de parede, efeitos e atalhos
+- [x] Tradução completa para o português
 
 ### 16/11 a 06/12 · Produtividade
 
@@ -46,7 +45,7 @@ no nosso Discord, e cada item vira um pull request aberto no GitHub.
 
 ### 01/02 a 15/03/2027 · Câmera e biometria
 
-- [ ] **Enquadramento automático** da câmera: segue o seu rosto nas reuniões, em qualquer app
+- [x] **Enquadramento automático** da câmera: segue o seu rosto nas reuniões, em qualquer app
 - [ ] Desfoque de fundo na câmera
 - [ ] **Leitor de digital** para entrar, desbloquear a tela e autorizar senhas de administrador
 
