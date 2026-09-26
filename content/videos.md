@@ -1,5 +1,6 @@
 ## Vídeos
 
+- [ArchLingmo: tela de boas-vindas e tour completo pelas Configurações!](https://youtu.be/WqPjGTrCOKs)
 - [Lingmo OS: o Linux com cara de macOS, baseado em Arch Linux!](https://youtu.be/RYMOQKSCisI)
 
 <!--
