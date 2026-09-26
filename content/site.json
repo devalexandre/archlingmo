@@ -1,11 +1,12 @@
 {
   "name": "ArchLingmo",
   "tagline": "O desktop Lingmo em Qt 6, sobre o Arch Linux.",
-  "version": "2026.09",
+  "version": "2026.09.26",
   "iso": {
-    "url": "",
+    "url": "https://archive.org/download/archlingmo-2026.09.26-x86_64/archlingmo-2026.09.26-x86_64.iso",
     "size": "2,1 GB",
-    "sha256": ""
+    "sha256": "491e3ce6cfcee81668fbbeb0d348bbe5ba8f7dfbfbd4341d6f92256bec2ab8e5",
+    "torrent": "https://archive.org/download/archlingmo-2026.09.26-x86_64/archlingmo-2026.09.26-x86_64_archive.torrent"
   },
   "discord": "https://discord.gg/pykAf7uMy",
   "github": "https://github.com/devalexandre/lingmo-desktop",
