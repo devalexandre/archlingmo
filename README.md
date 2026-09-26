@@ -6,7 +6,7 @@ O texto vem dos arquivos em `content/` e é montado no navegador; não há build
 
 | Arquivo | Seção |
 |---|---|
-| `content/site.json` | nome, frase, versão, link e tamanho da ISO, SHA-256, Discord, GitHub |
+| `content/site.json` | nome, frase, versão, link, torrent e tamanho da ISO, SHA-256, Discord, GitHub |
 | `content/intro.md` | Sobre |
 | `content/download.md` | Download e instalação pelo repositório |
 | `content/requisitos.md` | Requisitos mínimos |

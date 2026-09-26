@@ -40,6 +40,12 @@ function applyConfig(config) {
 
   const meta = [config.version && `Versão ${config.version}`, iso.size, "x86-64"].filter(Boolean);
   document.getElementById("iso-meta").textContent = meta.join(" · ");
+  if (iso.torrent) {
+    const torrent = document.createElement("a");
+    torrent.href = iso.torrent;
+    torrent.textContent = "Torrent";
+    document.getElementById("iso-meta").append(" · ", torrent);
+  }
   if (iso.sha256) {
     const sum = document.createElement("code");
     sum.textContent = `SHA-256 ${iso.sha256}`;
