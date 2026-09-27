@@ -39,15 +39,16 @@ no nosso Discord, e cada item vira um pull request aberto no GitHub.
 
 ### 07/12 a 31/01 · Mais poder no dia a dia
 
-- [ ] Spotlight com conversão de unidades e moedas e busca dentro de arquivos
-- [ ] Prévia das janelas ao passar o mouse na dock
-- [ ] **Gravação de tela** no app de capturas
+- [x] Spotlight com conversão de unidades e moedas e busca dentro de arquivos
+- [x] Prévia das janelas ao passar o mouse na dock
+- [x] **Gravação de tela** no app de capturas
 
 ### 01/02 a 15/03/2027 · Câmera e biometria
 
 - [x] **Enquadramento automático** da câmera: segue o seu rosto nas reuniões, em qualquer app
-- [ ] Desfoque de fundo na câmera
-- [ ] **Leitor de digital** para entrar, desbloquear a tela e autorizar senhas de administrador
+- [x] Desfoque de fundo na câmera
+- [x] **Leitor de digital** para entrar, desbloquear a tela e autorizar senhas de administrador
+- [x] **Reconhecimento facial** pela webcam para entrar e desbloquear (se falhar, pede a senha)
 
 ### A partir de março de 2027
 
