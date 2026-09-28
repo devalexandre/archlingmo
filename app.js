@@ -253,7 +253,10 @@ async function enhanceFeatures(section) {
         image.loading = "lazy";
         image.className = "feature-image";
         image.addEventListener("click", () => {
-          lightbox.querySelector("img").src = feature.full || feature.image;
+          const big = lightbox.querySelector("img");
+          // The picture itself if the full-size one can't be loaded
+          big.onerror = () => { big.onerror = null; big.src = feature.image; };
+          big.src = feature.full || feature.image;
           lightbox.querySelector("img").alt = image.alt;
           lightbox.showModal();
         });
