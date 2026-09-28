@@ -262,3 +262,20 @@ dialog#lightbox img { max-width: 94vw; max-height: 94vh; border-radius: 12px; di
   .links { justify-content: center; }
   .gallery-grid, .video-grid { grid-template-columns: 1fr; }
 }
+
+/* Recursos: each group's items as small cards */
+.features ul {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 10px;
+}
+.features li {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  line-height: 1.45;
+}
