@@ -20,7 +20,7 @@ Tudo isto já vem no ArchLingmo hoje.
 - **Luz noturna** com horário automático e troca da disposição do teclado pela barra
 - Páginas de **Atalhos** e de **Arranque** para escolher o que abre com o sistema
 - **Atualizações sem terminal**: aviso na barra e botão "Atualizar"
-- Tudo em **português**
+- Em **48 idiomas**, com o português completo
 
 ### Câmara e segurança
 

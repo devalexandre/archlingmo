@@ -20,7 +20,7 @@ Toto všetko už ArchLingmo obsahuje dnes.
 - **Nočné svetlo** s automatickým časovým plánom a prepínanie rozloženia klávesnice z panela
 - Stránky **Klávesové skratky** a **Automatické spúšťanie**, kde vyberiete, čo sa otvorí so systémom
 - **Aktualizácie bez terminálu**: upozornenie na paneli a tlačidlo „Aktualizovať“
-- Všetko v **slovenčine**
+- Dostupné v **48 jazykoch**
 
 ### Kamera a zabezpečenie
 

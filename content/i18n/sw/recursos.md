@@ -20,7 +20,7 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - **Mwanga wa usiku** wenye ratiba ya kiotomatiki, na kubadilisha mpangilio wa kibodi kutoka kwenye upau
 - Kurasa za **Njia za mkato** na **Kuanza kiotomatiki** ili kuchagua kinachofunguka pamoja na mfumo
 - **Masasisho bila terminal**: arifa kwenye upau na kitufe cha "Sasisha"
-- Inapatikana kwa **Kiswahili** na lugha nyingine nyingi
+- Inapatikana kwa **lugha 48**
 
 ### Kamera na usalama
 

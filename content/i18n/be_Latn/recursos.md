@@ -20,7 +20,7 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - **Načnoje sviatło** z aŭtamatyčnym raskładam i pieraklučennie raskładki kłavijatury z paneli
 - Staronki **Spałučenni kłaviš** i **Aŭtazapusk**, kab vybrać, što adkryvajecca razam z sistemaj
 - **Abnaŭlenni biez terminała**: apaviaščennie na paneli i knopka «Abnavić»
-- Usio pa-**biełarusku**
+- Dastupny na **48 movach**
 
 ### Kamiera i biaspieka
 

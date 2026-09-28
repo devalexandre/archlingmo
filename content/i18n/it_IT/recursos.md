@@ -20,7 +20,7 @@ Tutto questo è già incluso in ArchLingmo oggi.
 - **Luce notturna** con orari automatici e cambio del layout della tastiera dalla barra
 - Pagine **Scorciatoie** e **Avvio automatico** per scegliere cosa si apre all'avvio del sistema
 - **Aggiornamenti senza terminale**: avviso nella barra e pulsante "Aggiorna"
-- Disponibile in **italiano** e in molte altre lingue
+- Disponibile in **48 lingue**
 
 ### Fotocamera e sicurezza
 

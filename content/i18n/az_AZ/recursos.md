@@ -20,7 +20,7 @@ Bütün bunlar artıq bu gün ArchLingmo-da var.
 - Avtomatik cədvəlli **gecə işığı** və paneldən klaviatura düzülüşünü dəyişmə
 - Sistemlə birlikdə nəyin açılacağını seçmək üçün **Qısayollar** və **Avtomatik başlatma** səhifələri
 - **Terminalsız yeniləmələr**: paneldə bildiriş və "Yenilə" düyməsi
-- **Azərbaycan dilində** və bir çox başqa dillərdə
+- **48 dildə** mövcuddur
 
 ### Kamera və təhlükəsizlik
 

@@ -20,7 +20,7 @@ All das ist in ArchLingmo schon heute enthalten.
 - **Nachtlicht** mit automatischem Zeitplan und Wechsel der Tastaturbelegung über die Leiste
 - Seiten für **Tastenkürzel** und **Autostart**, um festzulegen, was beim Systemstart geöffnet wird
 - **Updates ohne Terminal**: Hinweis in der Leiste und ein Knopf „Aktualisieren“
-- Alles auf **Deutsch**
+- Verfügbar in **48 Sprachen**
 
 ### Kamera und Sicherheit
 

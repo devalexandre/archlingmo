@@ -20,7 +20,7 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - **Jiro amin'ny alina** manaraka fandaharam-potoana ho azy, ary fanovana ny filaharan'ny kitendry avy amin'ny bara
 - Pejy **Hitsin-dàlana** sy **Fanombohana** hisafidianana izay misokatra miaraka amin'ny rafitra
 - **Fanavaozana tsy mila terminal**: fampandrenesana eo amin'ny bara sy bokotra "Havaozina"
-- Amin'ny **teny malagasy** avokoa
+- Misy amin'ny **fiteny 48**
 
 ### Fakantsary sy fiarovana
 

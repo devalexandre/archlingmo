@@ -20,7 +20,7 @@ Bularning barchasi ArchLingmo’da hozirdanoq mavjud.
 - Avtomatik jadvalli **tungi yorug‘lik** va panel orqali klaviatura tartibini almashtirish
 - **Tezkor tugmalar** va **Avtoishga tushirish** sahifalari — tizim bilan birga nima ochilishini tanlang
 - **Terminalsiz yangilanishlar**: panelda bildirishnoma va «Yangilash» tugmasi
-- **O‘zbek** tilida mavjud
+- **48 tilda** mavjud
 
 ### Kamera va xavfsizlik
 

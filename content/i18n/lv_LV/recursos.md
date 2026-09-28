@@ -20,7 +20,7 @@ Tas viss ArchLingmo ir pieejams jau šodien.
 - **Nakts gaisma** ar automātisku grafiku un tastatūras izkārtojuma maiņa no joslas
 - Lapas **Īsinājumtaustiņi** un **Palaišana**, lai izvēlētos, kas atveras kopā ar sistēmu
 - **Atjauninājumi bez termināļa**: paziņojums joslā un poga “Atjaunināt”
-- Viss **latviešu valodā**
+- Pieejams **48 valodās**
 
 ### Kamera un drošība
 

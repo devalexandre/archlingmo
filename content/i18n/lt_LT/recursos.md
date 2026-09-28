@@ -20,7 +20,7 @@ Visa tai ArchLingmo turi jau šiandien.
 - **Naktinė šviesa** su automatiniu grafiku ir klaviatūros išdėstymo keitimas iš juostos
 - **Sparčiųjų klavišų** ir **Paleisties** puslapiai, kuriuose pasirenkate, kas paleidžiama kartu su sistema
 - **Atnaujinimai be terminalo**: pranešimas juostoje ir mygtukas „Atnaujinti“
-- Prieinama **lietuvių** kalba
+- Prieinama **48 kalbomis**
 
 ### Kamera ir saugumas
 

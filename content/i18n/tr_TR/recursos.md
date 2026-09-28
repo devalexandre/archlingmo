@@ -20,7 +20,7 @@ Bunların hepsi bugün ArchLingmo'da hazır.
 - Otomatik zamanlamalı **gece ışığı** ve çubuktan klavye düzeni değiştirme
 - Sistemle birlikte neyin açılacağını seçmek için **Kısayollar** ve **Başlangıç** sayfaları
 - **Terminalsiz güncelleme**: çubukta bildirim ve bir “Güncelle” düğmesi
-- Her şey **Türkçe**
+- **48 dilde** kullanılabilir
 
 ### Kamera ve güvenlik
 

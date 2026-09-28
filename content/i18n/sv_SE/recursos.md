@@ -20,7 +20,7 @@ Allt det här finns redan i ArchLingmo i dag.
 - **Nattljus** med automatiskt schema och byte av tangentbordslayout från panelen
 - Sidorna **Kortkommandon** och **Autostart** för att välja vad som öppnas när datorn startar
 - **Uppdateringar utan terminal**: en avisering i panelen och en knapp för att ”Uppdatera”
-- Allt på **svenska**
+- Finns på **48 språk**
 
 ### Kamera och säkerhet
 

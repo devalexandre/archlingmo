@@ -20,7 +20,7 @@ Alt dette følger med ArchLingmo allerede i dag.
 - **Natlys** med automatisk tidsplan og skift af tastaturlayout fra bjælken
 - Siderne **Genveje** og **Opstart**, hvor du vælger, hvad der starter sammen med systemet
 - **Opdateringer uden terminal**: besked i bjælken og en "Opdatér"-knap
-- Det hele på **dansk**
+- Fås på **48 sprog**
 
 ### Kamera og sikkerhed
 

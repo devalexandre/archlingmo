@@ -20,7 +20,7 @@ Alt dette følger med ArchLingmo allerede i dag.
 - **Nattlys** med automatisk tidsplan og bytte av tastaturoppsett fra linjen
 - Sider for **Snarveier** og **Oppstart**, der du velger hva som starter sammen med systemet
 - **Oppdateringer uten terminal**: varsel i linjen og en «Oppdater»-knapp
-- Tilgjengelig på **norsk**
+- Tilgjengelig på **48 språk**
 
 ### Kamera og sikkerhet
 

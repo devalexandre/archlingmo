@@ -20,7 +20,7 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - **Lúmine nocturn** con horarie automatic, e change del arangeament de tastatura ex li panel
 - Págines de **Rapid-tastes** e de **Lansa automatic** por selecter quo aperte se con li sistema
 - **Actualisationes sin terminal**: avise in li panel e un buton "Actualisar"
-- Disponibil in **Interlingue** e mult altri lingues
+- Disponibil in **48 lingues**
 
 ### Camera e securitá
 

@@ -20,7 +20,7 @@ Wszystko to znajdziesz w ArchLingmo już dziś.
 - **Podświetlenie nocne** z automatycznym harmonogramem i zmiana układu klawiatury z panelu
 - Strony **Skróty** i **Autostart**, w których wybierzesz, co uruchamia się razem z systemem
 - **Aktualizacje bez terminala**: powiadomienie w panelu i przycisk „Aktualizuj”
-- Dostępne po **polsku**
+- Dostępne w **48 językach**
 
 ### Kamera i bezpieczeństwo
 

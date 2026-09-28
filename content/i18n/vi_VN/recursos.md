@@ -20,7 +20,7 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - **Ánh sáng ban đêm** với lịch tự động và chuyển bố cục bàn phím ngay trên thanh
 - Trang **Phím tắt** và **Khởi động** để chọn những gì mở cùng hệ thống
 - **Cập nhật không cần terminal**: thông báo trên thanh và nút “Cập nhật”
-- Mọi thứ đều bằng **tiếng Việt**
+- Có sẵn bằng **48 ngôn ngữ**
 
 ### Camera và bảo mật
 

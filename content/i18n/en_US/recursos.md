@@ -20,7 +20,7 @@ All of this ships with ArchLingmo today.
 - **Night light** with an automatic schedule, and keyboard layout switching from the top bar
 - **Shortcuts** and **Startup** pages to choose what opens with the system
 - **Updates without the terminal**: a notice in the top bar and an "Update" button
-- Fully in **English**
+- Available in **48 languages**
 
 ### Camera and security
 

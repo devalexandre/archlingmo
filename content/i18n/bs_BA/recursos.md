@@ -20,7 +20,7 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - **Noćno svjetlo** s automatskim rasporedom i promjena rasporeda tastature iz trake
 - Stranice **Prečice** i **Automatsko pokretanje** za odabir onoga što se pokreće sa sistemom
 - **Ažuriranja bez terminala**: obavještenje u traci i dugme "Ažuriraj"
-- Dostupno na **bosanskom** i mnogim drugim jezicima
+- Dostupno na **48 jezika**
 
 ### Kamera i sigurnost
 

@@ -20,7 +20,7 @@ Tout ceci est déjà inclus dans ArchLingmo aujourd’hui.
 - **Éclairage nocturne** avec horaire automatique, et changement de disposition du clavier depuis la barre
 - Pages **Raccourcis** et **Démarrage** pour choisir ce qui s’ouvre avec le système
 - **Mises à jour sans terminal** : notification dans la barre et bouton « Mettre à jour »
-- Entièrement en **français**
+- Disponible en **48 langues**
 
 ### Caméra et sécurité
 

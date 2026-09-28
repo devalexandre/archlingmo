@@ -20,7 +20,7 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Yövalo** automaattisella aikataululla ja näppäimistöasettelun vaihto palkista
 - **Pikanäppäimet**- ja **Automaattinen käynnistys** -sivut, joista valitset, mitä käynnistyy järjestelmän mukana
 - **Päivitykset ilman päätettä**: ilmoitus palkissa ja "Päivitä"-painike
-- Saatavilla **suomeksi** ja monilla muilla kielillä
+- Saatavilla **48 kielellä**
 
 ### Kamera ja tietoturva
 

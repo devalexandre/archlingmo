@@ -20,7 +20,7 @@ Mindez már ma is benne van az ArchLingmóban.
 - **Éjszakai fény** automatikus időzítéssel, billentyűzetkiosztás váltása a sávról
 - **Gyorsbillentyűk** és **Automatikus indítás** oldal, ahol kiválaszthatod, mi induljon el a rendszerrel
 - **Frissítés terminál nélkül**: értesítés a sávon és „Frissítés” gomb
-- Elérhető **magyarul** és sok más nyelven
+- Elérhető **48 nyelven**
 
 ### Kamera és biztonság
 

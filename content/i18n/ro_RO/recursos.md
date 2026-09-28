@@ -20,7 +20,7 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - **Lumină de noapte** cu program automat și schimbarea aranjamentului tastaturii din bară
 - Pagini de **Scurtături** și **Pornire automată** pentru a alege ce se deschide odată cu sistemul
 - **Actualizări fără terminal**: notificare în bară și butonul „Actualizează”
-- Disponibil în **română**
+- Disponibil în **48 de limbi**
 
 ### Cameră și securitate
 

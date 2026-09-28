@@ -20,7 +20,7 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - **Cahaya malam** dengan jadwal otomatis, serta ganti tata letak papan ketik dari bilah
 - Halaman **Pintasan** dan **Aplikasi Awal** untuk memilih apa yang terbuka bersama sistem
 - **Pembaruan tanpa terminal**: pemberitahuan di bilah dan tombol "Perbarui"
-- Semuanya dalam **bahasa Indonesia**
+- Tersedia dalam **48 bahasa**
 
 ### Kamera dan keamanan
 

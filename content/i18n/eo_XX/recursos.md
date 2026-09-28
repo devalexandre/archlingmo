@@ -20,7 +20,7 @@
 - **Nokta lumo** kun aŭtomata horaro kaj ŝanĝo de klavara aranĝo el la breto
 - Paĝoj **Klavkombinoj** kaj **Aŭtomata lanĉo** por elekti kio malfermiĝas kun la sistemo
 - **Ĝisdatigoj sen terminalo**: avizo en la breto kaj butono «Ĝisdatigi»
-- Ĉio en **Esperanto**
+- Disponebla en **48 lingvoj**
 
 ### Kamerao kaj sekureco
 

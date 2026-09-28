@@ -20,7 +20,7 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - **Iftiinka habeenka** oo leh jadwal toos ah, iyo beddelidda qaabka kiiboodhka ee bar-ka
 - Bogagga **Gaaban-furayaasha** iyo **Bilowga** si aad u doorato waxa la furmaya marka nidaamku bilaabmo
 - **Cusboonaysiin aan terminal lahayn**: ogeysiis ku jira bar-ka iyo badhan "Cusboonaysii"
-- Waxaa lagu heli karaa **Af-Soomaali**
+- Waxaa lagu heli karaa **48 luqadood**
 
 ### Kamarada iyo amniga
 
