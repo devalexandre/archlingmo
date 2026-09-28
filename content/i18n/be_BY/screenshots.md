@@ -13,3 +13,4 @@
 ![Тэрмінал з тэмай Dracula](screenshots/terminal.jpg)
 ![Spotlight робіць вылічэнне](screenshots/spotlight.jpg)
 ![Налады, старонка «Выгляд»](screenshots/settings.jpg)
+![Натыўныя гульні](screenshots/native-games.jpg)

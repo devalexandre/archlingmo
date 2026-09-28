@@ -8,6 +8,8 @@ Li prioritás veni de quo aparí max sovente in forums e in recensiones de altri
 li timore que un actualisation rupte li sistema, drivers, installar programmas sin terminal e
 curar li computator sin esser un expert.
 
+- [x] **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex li butica. Al prim lansament, provide li ROM de vor propri cartuche; li paccas ne contene dates del ludes.
+
 ### 28/09 til 08/11 · Programmas sin complicationes
 
 - [ ] **Magasin de applicationes**: Flathub e li depositorias de Arch in un sol loc, con evaluationes e captures de ecran; paccages de AUR solmen con avise

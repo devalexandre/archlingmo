@@ -8,6 +8,8 @@ Ny laharam-pahamehana dia avy amin'ny zavatra miverimberina indrindra ao amin'ny
 ny tahotra sao hanimba ny rafitra ny fanavaozana, ny driver, ny fametrahana rindrambaiko tsy mila terminal ary
 ny fikarakarana ny solosaina nefa tsy mila ho manam-pahaizana ara-teknika.
 
+- [x] **Lalao teratany**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Apetraho avy amin'ny fivarotana. Amin'ny fanokafana voalohany, omeo ny ROM nalaina tamin'ny karatra lalaonao; tsy misy angona lalao ao amin'ny fonosana.
+
 ### 28/09 – 08/11 · Rindrambaiko tsy misy sarotra
 
 - [ ] **Fivarotana rindrambaiko**: Flathub sy ny tahiry Arch ao anatin'ny toerana iray, misy naoty sy sary; ny fonosana AUR kosa miaraka amin'ny fampitandremana ihany

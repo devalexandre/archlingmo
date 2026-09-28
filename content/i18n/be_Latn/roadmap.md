@@ -8,6 +8,8 @@ Pryjarytety vyznačajuć toje, što čaściej za ŭsio sustrakajecca na forumach
 strach, što abnaŭleńnie złamaje sistemu, drajviery, ustaloŭka prahram biez terminała i
 dohlad za kamputaram biez techničnych viedaŭ.
 
+- [x] **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z kramy. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.
+
 ### 28/09 – 08/11 · Prahramy biez składanaściaŭ
 
 - [ ] **Krama dastasavańniaŭ**: Flathub i repazitoryi Arch u adnym miescy, z acenkami i zdymkami; pakiety z AUR tolki z papiarežańniem

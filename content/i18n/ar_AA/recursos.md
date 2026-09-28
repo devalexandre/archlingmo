@@ -34,3 +34,4 @@
 - **طرفية** بسمة Dracula في الوضع الداكن، و**محرر نصوص**، و**آلة حاسبة**، و**مشغّل فيديو**
 - **لقطات الشاشة وتسجيلها**، مع الميكروفون وصوت النظام
 - مثبّت **Calamares** والصوت عبر **PipeWire**
+- **ألعاب أصلية**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). ثبّت من المتجر. عند التشغيل الأول، قدّم ملف ROM المستخرج من خرطوشتك الخاصة؛ لا تتضمن الحزم بيانات الألعاب.

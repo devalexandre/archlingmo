@@ -13,3 +13,4 @@
 ![Terminál s témou Dracula](screenshots/terminal.jpg)
 ![Spotlight počíta príklad](screenshots/spotlight.jpg)
 ![Nastavenia, stránka Vzhľad](screenshots/settings.jpg)
+![Natívne hry](screenshots/native-games.jpg)

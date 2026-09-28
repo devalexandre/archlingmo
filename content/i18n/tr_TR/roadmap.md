@@ -8,6 +8,8 @@ Discord sunucumuzda tartışılır; her madde GitHub'da açık bir pull request'
 bir güncellemenin sistemi bozma korkusu, sürücüler, terminal olmadan program kurmak ve
 teknik bilgi gerektirmeden bilgisayara bakmak.
 
+- [x] **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağazadan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.
+
 ### 28/09 – 08/11 · Zahmetsiz programlar
 
 - [ ] **Uygulama mağazası**: Flathub ve Arch depoları tek bir yerde, puanlar ve ekran görüntüleriyle; AUR paketleri yalnızca uyarıyla

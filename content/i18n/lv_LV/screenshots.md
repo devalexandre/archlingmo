@@ -13,3 +13,4 @@
 ![Terminālis ar Dracula motīvu](screenshots/terminal.jpg)
 ![Spotlight veic aprēķinu](screenshots/spotlight.jpg)
 ![Iestatījumi, lapa “Izskats”](screenshots/settings.jpg)
+![Vietējās spēles](screenshots/native-games.jpg)

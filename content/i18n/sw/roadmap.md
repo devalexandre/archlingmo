@@ -8,6 +8,8 @@ Vipaumbele vinatokana na mambo yanayojitokeza zaidi kwenye majukwaa na katika ta
 hofu kwamba sasisho litaharibu mfumo, viendeshi, kusakinisha programu bila terminal na
 kutunza kompyuta bila kuhitaji kuwa mtaalamu.
 
+- [x] **Michezo asilia**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Sakinisha kutoka dukani. Unapofungua mara ya kwanza, toa ROM kutoka katriji yako mwenyewe; vifurushi havina data za michezo.
+
 ### 28/09 hadi 08/11 · Programu bila usumbufu
 
 - [ ] **Duka la programu**: Flathub na hazina za Arch mahali pamoja, zikiwa na tathmini na picha za skrini; vifurushi vya AUR kwa onyo tu

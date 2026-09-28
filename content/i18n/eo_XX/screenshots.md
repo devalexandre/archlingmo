@@ -13,3 +13,4 @@
 ![Terminalo kun la etoso Dracula](screenshots/terminal.jpg)
 ![Spotlight kalkulanta](screenshots/spotlight.jpg)
 ![Agordoj, paĝo Aspekto](screenshots/settings.jpg)
+![Indiĝenaj ludoj](screenshots/native-games.jpg)

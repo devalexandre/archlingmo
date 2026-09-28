@@ -34,3 +34,4 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Pääte** Dracula-teemalla tummassa tilassa, **tekstieditori**, **laskin** ja **videosoitin**
 - **Kuvakaappaukset ja näytön tallennus** mikrofonin ja järjestelmän äänen kanssa
 - **Calamares**-asennusohjelma ja **PipeWire**-äänijärjestelmä
+- **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kaupasta. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.

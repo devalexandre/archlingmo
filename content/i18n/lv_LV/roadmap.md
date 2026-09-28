@@ -8,6 +8,8 @@ Prioritātes nāk no tā, kas visbiežāk parādās forumos un citu distribūcij
 bailes, ka atjauninājums sabojās sistēmu, draiveri, programmu instalēšana bez termināļa un
 datora uzturēšana bez tehniskām zināšanām.
 
+- [x] **Vietējās spēles**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalējiet no veikala. Pirmajā palaišanas reizē norādiet savas kasetnes ROM; pakotnēs nav spēļu datu.
+
 ### 28/09 – 08/11 · Programmas bez sarežģījumiem
 
 - [ ] **Lietotņu veikals**: Flathub un Arch repozitoriji vienuviet, ar vērtējumiem un ekrānuzņēmumiem; AUR pakotnes tikai ar brīdinājumu

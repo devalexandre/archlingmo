@@ -34,3 +34,4 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - **Terminal** dengan tema Dracula dalam mode gelap, **penyunting teks**, **kalkulator**, dan **pemutar video**
 - **Tangkapan dan rekaman layar**, dengan mikrofon dan audio sistem
 - Pemasang **Calamares** dan suara lewat **PipeWire**
+- **Game native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Pasang dari toko. Saat pertama dibuka, berikan ROM dari kartrid Anda sendiri; paket tidak menyertakan data game.

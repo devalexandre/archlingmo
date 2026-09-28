@@ -13,3 +13,4 @@
 ![Terminal cu tema Dracula](screenshots/terminal.jpg)
 ![Spotlight făcând un calcul](screenshots/spotlight.jpg)
 ![Setări, pagina Aspect](screenshots/settings.jpg)
+![Jocuri native](screenshots/native-games.jpg)

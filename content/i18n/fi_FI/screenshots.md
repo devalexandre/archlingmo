@@ -13,3 +13,4 @@
 ![Pääte Dracula-teemalla](screenshots/terminal.jpg)
 ![Spotlight laskemassa](screenshots/spotlight.jpg)
 ![Asetukset, Ulkoasu-sivu](screenshots/settings.jpg)
+![Natiivipelit](screenshots/native-games.jpg)

@@ -13,3 +13,4 @@
 ![Dracula temalı terminal](screenshots/terminal.jpg)
 ![Hesap yapan Spotlight](screenshots/spotlight.jpg)
 ![Ayarlar, Görünüm sayfası](screenshots/settings.jpg)
+![Yerel oyunlar](screenshots/native-games.jpg)

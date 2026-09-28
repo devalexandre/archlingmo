@@ -8,6 +8,8 @@ Discord 上討論，每個項目都會成為 GitHub 上公開的 pull request。
 擔心更新會令系統出問題、驅動程式、毋須終端機就能安裝程式，以及
 不用懂技術也能打理好電腦。
 
+- [x] **原生遊戲**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). 從商店安裝。首次啟動時，請提供從自己的卡帶擷取的 ROM；套件不包含遊戲資料。
+
 ### 28/09 – 08/11 · 輕鬆用程式
 
 - [ ] **應用程式商店**：Flathub 和 Arch 軟件庫集中在同一處，附評分和截圖；AUR 套件只會在提示警告後提供

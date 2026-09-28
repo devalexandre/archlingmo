@@ -8,6 +8,8 @@ Mudnaantu waxay ka timaaddaa waxa ugu badan ee laga hadlo goleyaasha iyo dib-u-e
 cabsida in cusboonaysiin ay jebiso nidaamka, darawallada, rakibidda barnaamijyada iyadoo aan terminal la isticmaalin iyo
 daryeelka kombiyuutarka iyadoo aan loo baahnayn aqoon farsamo.
 
+- [x] **Ciyaaraha asalka ah**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ka rakib dukaanka. Marka ugu horreysa ee aad furto, keen ROM laga soo saaray kartarijkaaga; xirmooyinku kuma jiraan xogta ciyaaraha.
+
 ### 28/09 ilaa 08/11 · Barnaamijyo aan dhib lahayn
 
 - [ ] **Dukaanka barnaamijyada**: Flathub iyo kaydadka Arch hal meel, oo leh qiimeyn iyo sawirro shaashadeed; xirmooyinka AUR digniin kaliya ayay la yimaadaan

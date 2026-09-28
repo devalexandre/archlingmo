@@ -34,3 +34,4 @@
 - **מסוף** עם ערכת הנושא Dracula במצב כהה, **עורך טקסט**, **מחשבון** ו**נגן וידאו**
 - **צילומי מסך והקלטת מסך**, עם מיקרופון ושמע המערכת
 - מתקין **Calamares** ושמע באמצעות **PipeWire**
+- **משחקים טבעיים**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). התקינו מהחנות. בהפעלה הראשונה יש לספק ROM מהמחסנית שלכם; החבילות אינן כוללות נתוני משחק.

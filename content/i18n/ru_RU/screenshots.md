@@ -13,3 +13,4 @@
 ![Терминал с темой Dracula](screenshots/terminal.jpg)
 ![Spotlight считает пример](screenshots/spotlight.jpg)
 ![Настройки, страница «Оформление»](screenshots/settings.jpg)
+![Нативные игры](screenshots/native-games.jpg)

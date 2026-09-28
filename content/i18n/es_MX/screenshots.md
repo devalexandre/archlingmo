@@ -13,3 +13,4 @@
 ![Terminal con el tema Dracula](screenshots/terminal.jpg)
 ![Spotlight haciendo un cálculo](screenshots/spotlight.jpg)
 ![Configuración, página Apariencia](screenshots/settings.jpg)
+![Juegos nativos](screenshots/native-games.jpg)

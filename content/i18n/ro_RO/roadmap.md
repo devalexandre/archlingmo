@@ -8,6 +8,8 @@ Prioritățile vin din ce apare cel mai des pe forumuri și în recenziile altor
 teama că o actualizare va strica sistemul, driverele, instalarea programelor fără terminal și
 îngrijirea calculatorului fără a fi nevoie de cunoștințe tehnice.
 
+- [x] **Jocuri native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalați din magazin. La prima pornire, furnizați ROM-ul propriului cartuș; pachetele nu includ datele jocurilor.
+
 ### 28/09 – 08/11 · Programe fără bătăi de cap
 
 - [ ] **Magazin de aplicații**: Flathub și depozitele Arch într-un singur loc, cu note și capturi de ecran; pachetele din AUR doar cu avertisment

@@ -13,3 +13,4 @@
 ![Dracula テーマのターミナル](screenshots/terminal.jpg)
 ![計算中の Spotlight](screenshots/spotlight.jpg)
 ![設定の「外観」ページ](screenshots/settings.jpg)
+![ネイティブゲーム](screenshots/native-games.jpg)

@@ -34,3 +34,4 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - **Terminal** leh mawduuca Dracula ee habka mugdiga, **tafatiraha qoraalka**, **xisaabiye** iyo **ciyaariyaha muuqaalka**
 - **Sawirro iyo duubista shaashadda**, oo leh makarafoon iyo codka nidaamka
 - Rakibaha **Calamares** iyo cod iyada oo loo marayo **PipeWire**
+- **Ciyaaraha asalka ah**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ka rakib dukaanka. Marka ugu horreysa ee aad furto, keen ROM laga soo saaray kartarijkaaga; xirmooyinku kuma jiraan xogta ciyaaraha.

@@ -8,6 +8,8 @@ Le priorità nascono da ciò che emerge più spesso nei forum e nelle recensioni
 la paura che un aggiornamento rompa il sistema, i driver, installare programmi senza terminale e
 prendersi cura del computer senza dover essere esperti.
 
+- [x] **Giochi nativi**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa dallo store. Al primo avvio, fornisci la ROM della tua cartuccia; i pacchetti non includono dati di gioco.
+
 ### Dal 28/09 all'08/11 · Programmi senza complicazioni
 
 - [ ] **Negozio di applicazioni**: Flathub e i repository di Arch in un unico posto, con valutazioni e screenshot; pacchetti AUR solo con avviso

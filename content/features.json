@@ -133,6 +133,12 @@
         "color": "#34C759",
         "image": "screenshots/features/sound.jpg",
         "full": "screenshots/full/sound.jpg"
+      },
+      {
+        "icon": "native-games",
+        "color": "#FF2D55",
+        "image": "screenshots/features/native-games.jpg",
+        "full": "screenshots/native-games.jpg"
       }
     ]
   ]

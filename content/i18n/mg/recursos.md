@@ -34,3 +34,4 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - **Terminal** misy endrika Dracula amin'ny fomba maizina, **fanovana lahatsoratra**, **milina fikajiana** ary **mpamaky horonan-tsary**
 - **Sary an-efijery sy fandraketana efijery**, miaraka amin'ny mikrô sy ny feon'ny rafitra
 - Mpametraka **Calamares** ary feo amin'ny alalan'ny **PipeWire**
+- **Lalao teratany**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Apetraho avy amin'ny fivarotana. Amin'ny fanokafana voalohany, omeo ny ROM nalaina tamin'ny karatra lalaonao; tsy misy angona lalao ao amin'ny fonosana.

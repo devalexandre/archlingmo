@@ -13,3 +13,4 @@
 ![ترمینال با پوستهٔ Dracula](screenshots/terminal.jpg)
 ![Spotlight در حال انجام یک محاسبه](screenshots/spotlight.jpg)
 ![تنظیمات، صفحهٔ ظاهر](screenshots/settings.jpg)
+![بازی‌های بومی](screenshots/native-games.jpg)

@@ -34,3 +34,4 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - **Terminal** s Dracula temom u tamnom načinu, **uređivač teksta**, **kalkulator** i **video plejer**
 - **Snimci ekrana i snimanje ekrana**, s mikrofonom i sistemskim zvukom
 - Instaler **Calamares** i zvuk preko **PipeWire**
+- **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz prodavnice. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.

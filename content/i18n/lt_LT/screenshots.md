@@ -13,3 +13,4 @@
 ![Terminalas su Dracula tema](screenshots/terminal.jpg)
 ![Spotlight atlieka skaičiavimą](screenshots/spotlight.jpg)
 ![Nustatymai, puslapis Išvaizda](screenshots/settings.jpg)
+![Vietiniai žaidimai](screenshots/native-games.jpg)

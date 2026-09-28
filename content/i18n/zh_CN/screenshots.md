@@ -13,3 +13,4 @@
 ![Dracula 主题的终端](screenshots/terminal.jpg)
 ![Spotlight 正在计算](screenshots/spotlight.jpg)
 ![设置中的“外观”页面](screenshots/settings.jpg)
+![原生游戏](screenshots/native-games.jpg)

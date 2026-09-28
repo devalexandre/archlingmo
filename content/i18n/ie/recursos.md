@@ -34,3 +34,4 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - **Terminal** con li tema Dracula in mode obscur, **redactor de textu**, **calculator** e **lector de video**
 - **Capturas e registration del ecran**, con microfon e audio del sistema
 - Installator **Calamares** e son per **PipeWire**
+- **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex li butica. Al prim lansament, provide li ROM de vor propri cartuche; li paccas ne contene dates del ludes.

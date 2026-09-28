@@ -8,6 +8,8 @@ Prioritas berasal dari hal yang paling sering muncul di forum dan ulasan distro 
 takut pembaruan merusak sistem, driver, memasang aplikasi tanpa terminal, dan
 merawat komputer tanpa harus paham teknis.
 
+- [x] **Game native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Pasang dari toko. Saat pertama dibuka, berikan ROM dari kartrid Anda sendiri; paket tidak menyertakan data game.
+
 ### 28/09 – 08/11 · Aplikasi tanpa ribet
 
 - [ ] **Toko aplikasi**: Flathub dan repositori Arch dalam satu tempat, dengan ulasan dan tangkapan layar; paket AUR hanya dengan peringatan

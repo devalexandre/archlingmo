@@ -13,3 +13,4 @@
 ![Dracula थिमसहितको टर्मिनल](screenshots/terminal.jpg)
 ![हिसाब गर्दै Spotlight](screenshots/spotlight.jpg)
 ![सेटिङ, रूपरङ पृष्ठ](screenshots/settings.jpg)
+![नेटिभ खेलहरू](screenshots/native-games.jpg)

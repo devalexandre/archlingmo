@@ -13,3 +13,4 @@
 ![Термінал із темою Dracula](screenshots/terminal.jpg)
 ![Spotlight рахує приклад](screenshots/spotlight.jpg)
 ![Налаштування, сторінка «Вигляд»](screenshots/settings.jpg)
+![Нативні ігри](screenshots/native-games.jpg)

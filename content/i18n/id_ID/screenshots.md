@@ -13,3 +13,4 @@
 ![Terminal dengan tema Dracula](screenshots/terminal.jpg)
 ![Spotlight sedang menghitung](screenshots/spotlight.jpg)
 ![Pengaturan, halaman Tampilan](screenshots/settings.jpg)
+![Game native](screenshots/native-games.jpg)

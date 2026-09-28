@@ -13,3 +13,4 @@
 ![Terminal mit dem Dracula-Design](screenshots/terminal.jpg)
 ![Spotlight beim Rechnen](screenshots/spotlight.jpg)
 ![Einstellungen, Seite Erscheinungsbild](screenshots/settings.jpg)
+![Native Spiele](screenshots/native-games.jpg)

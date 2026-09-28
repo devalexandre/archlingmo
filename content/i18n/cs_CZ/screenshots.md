@@ -13,3 +13,4 @@
 ![Terminál s motivem Dracula](screenshots/terminal.jpg)
 ![Spotlight při počítání příkladu](screenshots/spotlight.jpg)
 ![Nastavení, stránka Vzhled](screenshots/settings.jpg)
+![Nativní hry](screenshots/native-games.jpg)

@@ -13,3 +13,4 @@
 ![الطرفية بسمة Dracula](screenshots/terminal.jpg)
 ![Spotlight يجري عملية حسابية](screenshots/spotlight.jpg)
 ![الإعدادات، صفحة المظهر](screenshots/settings.jpg)
+![ألعاب أصلية](screenshots/native-games.jpg)

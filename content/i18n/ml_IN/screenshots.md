@@ -13,3 +13,4 @@
 ![Dracula തീമുള്ള ടെർമിനൽ](screenshots/terminal.jpg)
 ![Spotlight ഒരു കണക്ക് ചെയ്യുന്നു](screenshots/spotlight.jpg)
 ![ക്രമീകരണങ്ങൾ, രൂപഭാവം പേജ്](screenshots/settings.jpg)
+![നേറ്റീവ് ഗെയിമുകൾ](screenshots/native-games.jpg)

@@ -8,6 +8,8 @@ Prioriteringarna kommer från det som dyker upp oftast i forum och i recensioner
 rädslan för att en uppdatering ska förstöra systemet, drivrutiner, att installera program utan terminal och
 att sköta datorn utan att vara tekniskt kunnig.
 
+- [x] **Inbyggda spel**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installera från butiken. Vid första starten behövs en ROM från din egen kassett; paketen innehåller inga speldata.
+
 ### 28/09 – 08/11 · Program utan krångel
 
 - [ ] **Appbutik**: Flathub och Archs förråd på ett ställe, med betyg och skärmbilder; AUR-paket bara med en varning

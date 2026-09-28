@@ -8,6 +8,8 @@ A prioritások abból születnek, ami a fórumokon és más disztribúciók ért
 a félelem, hogy egy frissítés tönkreteszi a rendszert, az illesztőprogramok, a programok telepítése terminál nélkül és
 a számítógép karbantartása szakértelem nélkül.
 
+- [x] **Natív játékok**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Telepítés az áruházból. Első indításkor add meg a saját kazettádról készült ROM-ot; a csomagok nem tartalmaznak játékadatokat.
+
 ### 09.28. – 11.08. · Programok bonyodalmak nélkül
 
 - [ ] **Alkalmazásbolt**: a Flathub és az Arch tárolói egy helyen, értékelésekkel és képernyőképekkel; AUR-csomagok csak figyelmeztetéssel

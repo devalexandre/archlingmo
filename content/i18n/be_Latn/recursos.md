@@ -34,3 +34,4 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - **Terminał** z temaj Dracula ŭ ciomnym režymie, **tekstavy redaktar**, **kalkulatar** i **videaprajhravalnik**
 - **Zdymki i zapis ekrana** z mikrafonam i sistemnym hukam
 - Ustaloŭščyk **Calamares** i huk praz **PipeWire**
+- **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z kramy. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.

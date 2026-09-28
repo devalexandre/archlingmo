@@ -13,3 +13,4 @@
 ![Dracula थीम वाला टर्मिनल](screenshots/terminal.jpg)
 ![Spotlight में गणना](screenshots/spotlight.jpg)
 ![सेटिंग्स, रूप-रंग पेज](screenshots/settings.jpg)
+![नेटिव गेम](screenshots/native-games.jpg)

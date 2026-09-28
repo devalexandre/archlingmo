@@ -34,3 +34,4 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - **Terminal** với giao diện Dracula ở chế độ tối, **trình soạn thảo văn bản**, **máy tính** và **trình phát video**
 - **Chụp và quay màn hình**, kèm micrô và âm thanh hệ thống
 - Trình cài đặt **Calamares** và âm thanh qua **PipeWire**
+- **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ cửa hàng. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.

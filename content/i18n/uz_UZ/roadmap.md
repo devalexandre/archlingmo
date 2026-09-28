@@ -8,6 +8,8 @@ Ustuvorliklar forumlarda va boshqa distributivlar sharhlarida eng ko‘p uchrayd
 yangilanish tizimni buzib qo‘yishidan qo‘rqish, drayverlar, dasturlarni terminalsiz o‘rnatish va
 texnik bilimsiz kompyuterni parvarish qilish.
 
+- [x] **Mahalliy o‘yinlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Do‘kondan o‘rnating. Birinchi ishga tushirishda o‘z kartrijingizdan olingan ROMni ko‘rsating; paketlarda o‘yin ma’lumotlari yo‘q.
+
 ### 28/09 – 08/11 · Muammosiz dasturlar
 
 - [ ] **Ilovalar do‘koni**: Flathub va Arch repozitoriylari bir joyda, baholar va skrinshotlar bilan; AUR paketlari faqat ogohlantirish bilan

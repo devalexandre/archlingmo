@@ -8,6 +8,8 @@ Prioriteetit perustuvat siihen, mikä nousee useimmin esiin foorumeilla ja muide
 pelko siitä, että päivitys rikkoo järjestelmän, ajurit, ohjelmien asentaminen ilman päätettä ja
 tietokoneen ylläpito ilman teknistä osaamista.
 
+- [x] **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kaupasta. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.
+
 ### 28.09.–08.11. · Ohjelmat ilman vaivaa
 
 - [ ] **Sovelluskauppa**: Flathub ja Archin ohjelmalähteet yhdessä paikassa arvioineen ja kuvakaappauksineen; AUR-paketit vain varoituksen kanssa

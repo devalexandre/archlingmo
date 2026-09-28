@@ -13,3 +13,4 @@
 ![Dracula mövzulu terminal](screenshots/terminal.jpg)
 ![Spotlight hesablama edir](screenshots/spotlight.jpg)
 ![Parametrlər, Görünüş səhifəsi](screenshots/settings.jpg)
+![Doğma oyunlar](screenshots/native-games.jpg)

@@ -34,3 +34,4 @@ Bunların hepsi bugün ArchLingmo'da hazır.
 - Koyu modda Dracula temalı **terminal**, **metin düzenleyici**, **hesap makinesi** ve **video oynatıcı**
 - Mikrofon ve sistem sesiyle **ekran görüntüsü ve ekran kaydı**
 - **Calamares** yükleyici ve **PipeWire** ile ses
+- **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağazadan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.

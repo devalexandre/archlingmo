@@ -8,6 +8,8 @@ Prioriteti proizlaze iz onoga što se najčešće spominje na forumima i u recen
 strah da će ažuriranje pokvariti sistem, drajveri, instaliranje programa bez terminala i
 održavanje računara bez potrebe da budete stručnjak.
 
+- [x] **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz prodavnice. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.
+
 ### 28.09. do 08.11. · Programi bez komplikacija
 
 - [ ] **Prodavnica aplikacija**: Flathub i Arch repozitoriji na jednom mjestu, s ocjenama i snimcima ekrana; AUR paketi samo uz upozorenje

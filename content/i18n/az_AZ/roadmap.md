@@ -8,6 +8,8 @@ Prioritetlər forumlarda və digər distributivlərin rəylərində ən çox ras
 yeniləmənin sistemi pozacağı qorxusu, drayverlər, proqramları terminalsız quraşdırmaq və
 texniki bilik tələb etmədən kompüterə qulluq etmək.
 
+- [x] **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağazadan quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.
+
 ### 28/09 – 08/11 · Asan proqramlar
 
 - [ ] **Tətbiq mağazası**: Flathub və Arch repozitoriyaları bir yerdə, reytinq və ekran görüntüləri ilə; AUR paketləri yalnız xəbərdarlıqla

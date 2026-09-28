@@ -34,3 +34,4 @@ Tas viss ArchLingmo ir pieejams jau šodien.
 - **Terminālis** ar Dracula motīvu tumšajā režīmā, **teksta redaktors**, **kalkulators** un **video atskaņotājs**
 - **Ekrānuzņēmumi un ekrāna ierakstīšana** ar mikrofonu un sistēmas skaņu
 - **Calamares** instalētājs un skaņa ar **PipeWire**
+- **Vietējās spēles**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalējiet no veikala. Pirmajā palaišanas reizē norādiet savas kasetnes ROM; pakotnēs nav spēļu datu.

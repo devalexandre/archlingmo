@@ -13,3 +13,4 @@
 ![Terminal với giao diện Dracula](screenshots/terminal.jpg)
 ![Spotlight đang tính toán](screenshots/spotlight.jpg)
 ![Cài đặt, trang Giao diện](screenshots/settings.jpg)
+![Trò chơi gốc Linux](screenshots/native-games.jpg)

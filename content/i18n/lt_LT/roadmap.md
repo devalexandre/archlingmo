@@ -8,6 +8,8 @@ Prioritetai kyla iš to, kas dažniausiai minima forumuose ir kitų distribucij�
 baimė, kad atnaujinimas sugadins sistemą, tvarkyklės, programų diegimas be terminalo ir
 kompiuterio priežiūra nebūnant techniniu žinovu.
 
+- [x] **Vietiniai žaidimai**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Įdiekite iš parduotuvės. Pirmą kartą paleidę pateikite savo kasetės ROM; paketuose nėra žaidimų duomenų.
+
 ### 28/09–08/11 · Programos be vargo
 
 - [ ] **Programėlių parduotuvė**: Flathub ir Arch saugyklos vienoje vietoje, su įvertinimais ir ekrano nuotraukomis; AUR paketai tik su įspėjimu

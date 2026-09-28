@@ -8,6 +8,8 @@ Discord で話し合われ、各項目は GitHub 上の公開 pull request に�
 アップデートでシステムが壊れる不安、ドライバー、ターミナルを使わないソフトのインストール、
 そして専門知識なしでパソコンを手入れできることです。
 
+- [x] **ネイティブゲーム**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). ストアからインストールできます。初回起動時に自分のカートリッジから吸い出したROMを指定してください。パッケージにゲームデータは含まれません。
+
 ### 28/09〜08/11 · 手間いらずのアプリ
 
 - [ ] **アプリストア**: Flathub と Arch のリポジトリをひとつの場所に、評価とスクリーンショット付きで。AUR のパッケージは警告付きでのみ

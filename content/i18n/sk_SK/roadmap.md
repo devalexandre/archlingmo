@@ -8,6 +8,8 @@ Priority vychádzajú z toho, čo sa najčastejšie objavuje na fórach a v rece
 strach, že aktualizácia pokazí systém, ovládače, inštalácia programov bez terminálu a
 starostlivosť o počítač bez technických znalostí.
 
+- [x] **Natívne hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Inštalácia z obchodu. Pri prvom spustení zadajte ROM z vlastnej kazety; balíky neobsahujú herné dáta.
+
 ### 28/09 – 08/11 · Programy bez komplikácií
 
 - [ ] **Obchod s aplikáciami**: Flathub a repozitáre Archu na jednom mieste, s hodnoteniami a snímkami; balíky z AUR len s upozornením

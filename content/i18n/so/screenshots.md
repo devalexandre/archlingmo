@@ -13,3 +13,4 @@
 ![Terminal leh mawduuca Dracula](screenshots/terminal.jpg)
 ![Spotlight oo xisaab samaynaya](screenshots/spotlight.jpg)
 ![Dejinta, bogga Muuqaalka](screenshots/settings.jpg)
+![Ciyaaraha asalka ah](screenshots/native-games.jpg)

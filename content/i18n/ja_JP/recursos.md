@@ -34,3 +34,4 @@
 - ダークモードで Dracula テーマの **ターミナル**、**テキストエディター**、**電卓**、**動画プレーヤー**
 - マイクとシステム音声付きの **スクリーンショットと画面録画**
 - **Calamares** インストーラーと **PipeWire** によるサウンド
+- **ネイティブゲーム**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). ストアからインストールできます。初回起動時に自分のカートリッジから吸い出したROMを指定してください。パッケージにゲームデータは含まれません。

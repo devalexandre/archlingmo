@@ -13,3 +13,4 @@
 ![Терминал с темата Dracula](screenshots/terminal.jpg)
 ![Spotlight пресмята сметка](screenshots/spotlight.jpg)
 ![Настройки, страница „Външен вид“](screenshots/settings.jpg)
+![Нативни игри](screenshots/native-games.jpg)

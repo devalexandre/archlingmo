@@ -13,3 +13,4 @@
 ![Terminal med Dracula-temaet](screenshots/terminal.jpg)
 ![Spotlight som regner ut et regnestykke](screenshots/spotlight.jpg)
 ![Innstillinger, siden Utseende](screenshots/settings.jpg)
+![Native spill](screenshots/native-games.jpg)

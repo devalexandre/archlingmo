@@ -34,3 +34,4 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - **Terminal** cu tema Dracula în modul întunecat, **editor de text**, **calculator** și **player video**
 - **Capturi și înregistrare de ecran**, cu microfon și sunetul sistemului
 - Programul de instalare **Calamares** și sunet prin **PipeWire**
+- **Jocuri native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalați din magazin. La prima pornire, furnizați ROM-ul propriului cartuș; pachetele nu includ datele jocurilor.

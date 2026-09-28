@@ -8,6 +8,8 @@ Prioriteringene bygger på det som dukker opp oftest i forum og i anmeldelser av
 frykten for at en oppdatering ødelegger systemet, drivere, å installere programmer uten terminal og
 å ta vare på datamaskinen uten å måtte være teknisk.
 
+- [x] **Native spill**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra butikken. Ved første start trenger du en ROM fra din egen kassett; pakkene inneholder ingen spilldata.
+
 ### 28/09 til 08/11 · Programmer uten styr
 
 - [ ] **Appbutikk**: Flathub og Arch-pakkebrønnene samlet på ett sted, med vurderinger og skjermbilder; AUR-pakker kun med advarsel

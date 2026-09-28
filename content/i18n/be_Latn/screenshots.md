@@ -13,3 +13,4 @@
 ![Terminał z temaj Dracula](screenshots/terminal.jpg)
 ![Spotlight ličyć prykład](screenshots/spotlight.jpg)
 ![Nałady, staronka «Vyhlad»](screenshots/settings.jpg)
+![Natyŭnyja hulni](screenshots/native-games.jpg)

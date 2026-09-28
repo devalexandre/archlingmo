@@ -34,3 +34,4 @@ Bütün bunlar artıq bu gün ArchLingmo-da var.
 - Tünd rejimdə Dracula mövzulu **terminal**, **mətn redaktoru**, **kalkulyator** və **video pleyer**
 - Mikrofon və sistem səsi ilə **ekran şəkilləri və ekran yazısı**
 - **Calamares** quraşdırıcısı və **PipeWire** ilə səs
+- **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağazadan quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.

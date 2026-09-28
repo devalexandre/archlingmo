@@ -13,3 +13,4 @@
 ![Терминал са Dracula темом](screenshots/terminal.jpg)
 ![Spotlight рачуна](screenshots/spotlight.jpg)
 ![Подешавања, страница Изглед](screenshots/settings.jpg)
+![Нативне игре](screenshots/native-games.jpg)

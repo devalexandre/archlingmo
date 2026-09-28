@@ -34,3 +34,4 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - **Terminal** yenye mandhari ya Dracula katika hali ya giza, **kihariri cha maandishi**, **kikokotoo** na **kicheza video**
 - **Picha za skrini na kurekodi skrini**, pamoja na maikrofoni na sauti ya mfumo
 - Kisakinishi cha **Calamares** na sauti kupitia **PipeWire**
+- **Michezo asilia**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Sakinisha kutoka dukani. Unapofungua mara ya kwanza, toa ROM kutoka katriji yako mwenyewe; vifurushi havina data za michezo.

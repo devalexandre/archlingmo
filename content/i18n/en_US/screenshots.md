@@ -13,3 +13,4 @@
 ![Terminal with the Dracula theme](screenshots/terminal.jpg)
 ![Spotlight doing some math](screenshots/spotlight.jpg)
 ![Settings, Appearance page](screenshots/settings.jpg)
+![Native games](screenshots/native-games.jpg)

@@ -13,3 +13,4 @@
 ![Dracula தீமுடன் டெர்மினல்](screenshots/terminal.jpg)
 ![கணக்கிடும் Spotlight](screenshots/spotlight.jpg)
 ![அமைப்புகள், தோற்றம் பக்கம்](screenshots/settings.jpg)
+![நேட்டிவ் விளையாட்டுகள்](screenshots/native-games.jpg)

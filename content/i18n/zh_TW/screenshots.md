@@ -13,3 +13,4 @@
 ![使用 Dracula 主題的終端機](screenshots/terminal.jpg)
 ![Spotlight 正在計算](screenshots/spotlight.jpg)
 ![設定的「外觀」頁面](screenshots/settings.jpg)
+![原生遊戲](screenshots/native-games.jpg)

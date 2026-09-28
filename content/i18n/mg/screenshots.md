@@ -13,3 +13,4 @@
 ![Terminal misy endrika Dracula](screenshots/terminal.jpg)
 ![Spotlight manao kajy](screenshots/spotlight.jpg)
 ![Fikirana, pejy Endrika](screenshots/settings.jpg)
+![Lalao teratany](screenshots/native-games.jpg)

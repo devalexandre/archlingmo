@@ -8,8 +8,11 @@ Priorities come from what shows up most in forums and in reviews of other distro
 fear of an update breaking the system, drivers, installing apps without a terminal and
 looking after your computer without being a tech person.
 
+- [x] **Native games**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Install from Store → Native games. On first launch, provide a ROM dumped from your own cartridge; packages include no game data.
+
 ### 28/09 – 08/11 · Apps without the hassle
 
+- [ ] **Email client**: easy setup for different providers, with automatic detection and manual SMTP and IMAP/POP3 settings. Integration with the same Google (Gmail) account used in the store to download Android apps. Match the ArchLingmo visual design with LingmoUI components, typography, colors, spacing, and light/dark themes consistent with the desktop
 - [ ] **App store**: Flathub and the Arch repositories in one place, with ratings and screenshots; AUR packages only with a warning
 - [ ] **Open Windows programs**: clicking an .exe suggests a Linux alternative or runs it with Bottles/Wine
 - [ ] **One-click gaming**: Steam, Proton and game mode, with a warning for games whose anti-cheat does not work on Linux

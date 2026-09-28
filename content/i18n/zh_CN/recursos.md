@@ -34,3 +34,4 @@
 - 深色模式下使用 Dracula 主题的**终端**、**文本编辑器**、**计算器**和**视频播放器**
 - **截图和录屏**，可同时录制麦克风和系统声音
 - **Calamares** 安装程序，音频由 **PipeWire** 提供
+- **原生游戏**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). 从商店安装。首次启动时，请提供从自己的卡带提取的 ROM；软件包不包含游戏数据。

@@ -13,3 +13,4 @@
 ![מסוף עם ערכת הנושא Dracula](screenshots/terminal.jpg)
 ![Spotlight מבצע חישוב](screenshots/spotlight.jpg)
 ![הגדרות, עמוד המראה](screenshots/settings.jpg)
+![משחקים טבעיים](screenshots/native-games.jpg)

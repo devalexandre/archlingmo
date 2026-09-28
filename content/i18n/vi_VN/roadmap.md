@@ -8,6 +8,8 @@ Thứ tự ưu tiên đến từ những vấn đề được nhắc đến nhi�
 nỗi sợ bản cập nhật làm hỏng hệ thống, trình điều khiển, cài phần mềm không cần terminal và
 chăm sóc máy tính mà không cần rành kỹ thuật.
 
+- [x] **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ cửa hàng. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.
+
 ### 28/09 – 08/11 · Phần mềm không rắc rối
 
 - [ ] **Cửa hàng ứng dụng**: Flathub và kho phần mềm của Arch ở cùng một nơi, có đánh giá và ảnh chụp; gói AUR chỉ đi kèm cảnh báo

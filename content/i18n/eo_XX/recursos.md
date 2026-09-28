@@ -34,3 +34,4 @@
 - **Terminalo** kun la etoso Dracula en malhela reĝimo, **tekstoredaktilo**, **kalkulilo** kaj **videoludilo**
 - **Ekrankopioj kaj ekranregistrado**, kun mikrofono kaj sistema sono
 - Instalilo **Calamares** kaj sono per **PipeWire**
+- **Indiĝenaj ludoj**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalu el la vendejo. Je la unua lanĉo, donu ROM el via propra kartoĉo; la pakaĵoj ne enhavas ludajn datumojn.

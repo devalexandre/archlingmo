@@ -13,3 +13,4 @@
 ![Terminal yenye mandhari ya Dracula](screenshots/terminal.jpg)
 ![Spotlight ikifanya hesabu](screenshots/spotlight.jpg)
 ![Mipangilio, ukurasa wa Mwonekano](screenshots/settings.jpg)
+![Michezo asilia](screenshots/native-games.jpg)

@@ -8,6 +8,8 @@ La prioritatoj venas de tio, kio plej ofte aperas en forumoj kaj en recenzoj de 
 timo, ke ĝisdatigo rompos la sistemon, peliloj, instali programojn sen terminalo kaj
 prizorgi la komputilon sen esti teknikisto.
 
+- [x] **Indiĝenaj ludoj**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalu el la vendejo. Je la unua lanĉo, donu ROM el via propra kartoĉo; la pakaĵoj ne enhavas ludajn datumojn.
+
 ### 28/09 – 08/11 · Programoj sen komplikaĵoj
 
 - [ ] **Aplikaĵa vendejo**: Flathub kaj la deponejoj de Arch en unu loko, kun taksoj kaj ekrankopioj; pakoj el AUR nur kun averto

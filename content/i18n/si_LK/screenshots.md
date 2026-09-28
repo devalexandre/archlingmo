@@ -13,3 +13,4 @@
 ![Dracula තේමාව සහිත ටර්මිනලය](screenshots/terminal.jpg)
 ![ගණනය කිරීමක් කරන Spotlight](screenshots/spotlight.jpg)
 ![සැකසුම්, පෙනුම පිටුව](screenshots/settings.jpg)
+![ස්වදේශීය ක්‍රීඩා](screenshots/native-games.jpg)

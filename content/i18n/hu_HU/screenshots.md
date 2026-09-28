@@ -13,3 +13,4 @@
 ![Terminál Dracula témával](screenshots/terminal.jpg)
 ![Spotlight számolás közben](screenshots/spotlight.jpg)
 ![Beállítások, Megjelenés oldal](screenshots/settings.jpg)
+![Natív játékok](screenshots/native-games.jpg)
