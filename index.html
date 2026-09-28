@@ -18,22 +18,26 @@
     <nav class="nav">
       <a class="brand" href="#"><img src="assets/logo-white.png" alt="Lingmo"></a>
       <div class="links">
-        <a href="#sobre">Sobre</a>
-        <a href="#recursos">Recursos</a>
-        <a href="#download">Download</a>
-        <a href="#requisitos">Requisitos</a>
-        <a href="#capturas">Capturas</a>
-        <a href="#videos">Vídeos</a>
-        <a href="#roadmap">Roadmap</a>
-        <a href="#comunidade">Comunidade</a>
+        <a href="#sobre" data-i18n="nav.about">Sobre</a>
+        <a href="#recursos" data-i18n="nav.features">Recursos</a>
+        <a href="#download" data-i18n="nav.download">Download</a>
+        <a href="#requisitos" data-i18n="nav.requirements">Requisitos</a>
+        <a href="#capturas" data-i18n="nav.screenshots">Capturas</a>
+        <a href="#videos" data-i18n="nav.videos">Vídeos</a>
+        <a href="#roadmap" data-i18n="nav.roadmap">Roadmap</a>
+        <a href="#comunidade" data-i18n="nav.community">Comunidade</a>
       </div>
+      <label class="lang-picker">
+        <span class="visually-hidden" data-i18n="lang.label">Idioma</span>
+        <select id="lang-select" aria-label="Idioma"></select>
+      </label>
     </nav>
 
     <div class="hero-content">
       <h1 id="site-name">ArchLingmo</h1>
-      <p id="site-tagline" class="tagline">O desktop Lingmo em Qt 6, sobre o Arch Linux.</p>
+      <p id="site-tagline" class="tagline" data-i18n="hero.tagline">O desktop Lingmo em Qt 6, sobre o Arch Linux.</p>
       <div class="actions">
-        <a id="download-button" class="button primary" href="#download">Baixar ISO</a>
+        <a id="download-button" class="button primary" href="#download" data-i18n="button.download">Baixar ISO</a>
         <a id="discord-button" class="button" href="#comunidade">Discord</a>
         <a id="github-button" class="button" href="https://github.com/devalexandre/lingmo-desktop">GitHub</a>
       </div>
@@ -53,11 +57,11 @@
   </main>
 
   <footer class="footer">
-    <p>ArchLingmo é um projeto comunitário baseado no <a href="https://lingmo.org">Lingmo OS</a>.
+    <p data-i18n-html="footer">ArchLingmo é um projeto comunitário baseado no <a href="https://lingmo.org">Lingmo OS</a>.
        Código livre sob a GPL.</p>
   </footer>
 
-  <dialog id="lightbox" aria-label="Captura de tela ampliada">
+  <dialog id="lightbox" aria-label="Captura de tela ampliada" data-i18n-aria="lightbox.label">
     <img alt="">
   </dialog>
 </body>

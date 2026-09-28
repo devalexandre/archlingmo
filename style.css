@@ -113,7 +113,7 @@ a { color: var(--accent); }
 
 .meta { margin-top: 20px; color: rgba(255, 255, 255, 0.75); font-size: 14px; }
 
-.meta code { font-size: 12px; word-break: break-all; }
+.meta code { font-size: 12px; word-break: break-all; background: rgba(0, 0, 0, 0.28); color: rgba(255, 255, 255, 0.85); }
 
 .meta a { color: #FFFFFF; }
 
@@ -279,3 +279,34 @@ dialog#lightbox img { max-width: 94vw; max-height: 94vh; border-radius: 12px; di
   border: 1px solid var(--border);
   line-height: 1.45;
 }
+
+/* Language picker in the top bar */
+.lang-picker select {
+  appearance: none;
+  background: rgba(255, 255, 255, 0.14);
+  color: #FFFFFF;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  max-width: 220px;
+}
+.lang-picker select:focus-visible { outline: 2px solid #FFFFFF; outline-offset: 2px; }
+.lang-picker option { color: #1C1C22; background: #FFFFFF; }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Right-to-left languages: lists and the roadmap checkboxes flip sides */
+[dir="rtl"] .roadmap li { padding-left: 0; padding-right: 30px; }
+[dir="rtl"] .roadmap li input[type="checkbox"] { left: auto; right: 0; }
+[dir="rtl"] .section ul { padding-left: 0; padding-right: 20px; }
+[dir="rtl"] .features ul, [dir="rtl"] .roadmap ul { padding-right: 0; }
