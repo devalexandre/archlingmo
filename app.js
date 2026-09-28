@@ -218,6 +218,53 @@ function enhanceGallery(section) {
   lightbox.addEventListener("click", () => lightbox.close());
 }
 
+// Recursos: each item gets its icon and, for the eye-catching ones, a picture.
+// content/features.json lists them group by group in the Markdown's order, so the
+// translations only carry text.
+async function enhanceFeatures(section) {
+  const map = await fetchJson("content/features.json");
+  if (!map)
+    return;
+  const lightbox = document.getElementById("lightbox");
+  section.querySelectorAll("ul").forEach((list, group) => {
+    [...list.children].forEach((item, index) => {
+      const feature = map.groups?.[group]?.[index];
+      if (!feature)
+        return;
+      const text = document.createElement("div");
+      text.className = "feature-text";
+      text.append(...item.childNodes);
+
+      const icon = document.createElement("span");
+      icon.className = "feature-icon";
+      icon.style.background = feature.color || "var(--accent)";
+      icon.style.setProperty("--icon", `url("assets/icons/${feature.icon}.svg")`);
+      icon.setAttribute("aria-hidden", "true");
+
+      const body = document.createElement("div");
+      body.className = "feature-body";
+      body.append(icon, text);
+
+      item.classList.add("feature");
+      if (feature.image) {
+        const image = document.createElement("img");
+        image.src = feature.image;
+        image.alt = text.textContent.trim();
+        image.loading = "lazy";
+        image.className = "feature-image";
+        image.addEventListener("click", () => {
+          lightbox.querySelector("img").src = feature.image.replace("screenshots/features/", "screenshots/");
+          lightbox.querySelector("img").alt = image.alt;
+          lightbox.showModal();
+        });
+        item.classList.add("has-image");
+        item.append(image);
+      }
+      item.append(body);
+    });
+  });
+}
+
 async function loadSections() {
   for (const section of document.querySelectorAll("[data-md]")) {
     try {
@@ -230,6 +277,8 @@ async function loadSections() {
       enhanceGallery(section);
     if (section.classList.contains("videos"))
       enhanceVideos(section);
+    if (section.classList.contains("features"))
+      await enhanceFeatures(section);
   }
 }
 
