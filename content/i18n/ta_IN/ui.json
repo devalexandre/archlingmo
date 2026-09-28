@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Arch Linux மீது, Qt 6-இல் Lingmo டெஸ்க்டாப். பதிவிறக்கம், தேவைகள் மற்றும் திரைப்பிடிப்புகள்.",
+ "lang.label": "மொழி",
+ "nav.about": "அறிமுகம்",
+ "nav.features": "அம்சங்கள்",
+ "nav.download": "பதிவிறக்கம்",
+ "nav.requirements": "தேவைகள்",
+ "nav.screenshots": "திரைப்பிடிப்புகள்",
+ "nav.videos": "காணொளிகள்",
+ "nav.roadmap": "திட்டவரைவு",
+ "nav.community": "சமூகம்",
+ "hero.tagline": "Arch Linux மீது, Qt 6-இல் Lingmo டெஸ்க்டாப்.",
+ "button.download": "ISO பதிவிறக்கு",
+ "soon.iso": "ISO விரைவில்",
+ "soon.discord": "Discord விரைவில்",
+ "meta.version": "பதிப்பு {version}",
+ "meta.torrent": "டொரண்ட்",
+ "videos.empty": "காணொளிகள் விரைவில் வரும்.",
+ "load.error": "{file} ஐ ஏற்ற முடியவில்லை.",
+ "footer": "ArchLingmo என்பது <a href=\"https://lingmo.org\">Lingmo OS</a> அடிப்படையிலான ஒரு சமூகத் திட்டம். GPL உரிமத்தின் கீழ் கட்டற்ற மென்பொருள்.",
+ "lightbox.label": "பெரிதாக்கப்பட்ட திரைப்பிடிப்பு"
+}

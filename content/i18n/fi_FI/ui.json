@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Lingmo-työpöytä Qt 6:lla, Arch Linuxin päällä. Lataus, järjestelmävaatimukset ja kuvakaappaukset.",
+ "lang.label": "Kieli",
+ "nav.about": "Tietoja",
+ "nav.features": "Ominaisuudet",
+ "nav.download": "Lataa",
+ "nav.requirements": "Vaatimukset",
+ "nav.screenshots": "Kuvakaappaukset",
+ "nav.videos": "Videot",
+ "nav.roadmap": "Tiekartta",
+ "nav.community": "Yhteisö",
+ "hero.tagline": "Lingmo-työpöytä Qt 6:lla, Arch Linuxin päällä.",
+ "button.download": "Lataa ISO",
+ "soon.iso": "ISO tulossa pian",
+ "soon.discord": "Discord tulossa pian",
+ "meta.version": "Versio {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Videot ovat tulossa pian.",
+ "load.error": "Tiedoston {file} lataaminen epäonnistui.",
+ "footer": "ArchLingmo on yhteisöprojekti, joka perustuu <a href=\"https://lingmo.org\">Lingmo OS</a> -järjestelmään. Vapaata ohjelmistoa GPL-lisenssillä.",
+ "lightbox.label": "Suurennettu kuvakaappaus"
+}

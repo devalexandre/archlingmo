@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Arch Linux මත Qt 6 සමඟ සැකසූ Lingmo ඩෙස්ක්ටොපය. බාගැනීම, පද්ධති අවශ්‍යතා සහ තිර රූ.",
+ "lang.label": "භාෂාව",
+ "nav.about": "පිළිබඳව",
+ "nav.features": "විශේෂාංග",
+ "nav.download": "බාගන්න",
+ "nav.requirements": "අවශ්‍යතා",
+ "nav.screenshots": "තිර රූ",
+ "nav.videos": "වීඩියෝ",
+ "nav.roadmap": "සැලසුම්",
+ "nav.community": "ප්‍රජාව",
+ "hero.tagline": "Arch Linux මත Qt 6 සමඟ සැකසූ Lingmo ඩෙස්ක්ටොපය.",
+ "button.download": "ISO බාගන්න",
+ "soon.iso": "ISO ළඟදීම",
+ "soon.discord": "Discord ළඟදීම",
+ "meta.version": "අනුවාදය {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "වීඩියෝ ළඟදීම එනු ඇත.",
+ "load.error": "{file} පූරණය කළ නොහැකි විය.",
+ "footer": "ArchLingmo යනු <a href=\"https://lingmo.org\">Lingmo OS</a> මත පදනම් වූ ප්‍රජා ව්‍යාපෘතියකි. GPL යටතේ නිදහස් මෘදුකාංගයකි.",
+ "lightbox.label": "විශාල කළ තිර රුව"
+}

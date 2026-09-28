@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: ny birao Lingmo amin'ny Qt 6, mandeha amin'ny Arch Linux. Sintony, fepetra ilaina ary sary an-efijery.",
+ "lang.label": "Fiteny",
+ "nav.about": "Momba",
+ "nav.features": "Endri-javatra",
+ "nav.download": "Sintony",
+ "nav.requirements": "Fepetra",
+ "nav.screenshots": "Sary an-efijery",
+ "nav.videos": "Horonan-tsary",
+ "nav.roadmap": "Drafitra",
+ "nav.community": "Vondrona",
+ "hero.tagline": "Ny birao Lingmo amin'ny Qt 6, mandeha amin'ny Arch Linux.",
+ "button.download": "Hisintona ny ISO",
+ "soon.iso": "ISO tsy ho ela",
+ "soon.discord": "Discord tsy ho ela",
+ "meta.version": "Versiona {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Ho avy tsy ho ela ireo horonan-tsary.",
+ "load.error": "Tsy nahavaky ny {file}.",
+ "footer": "ArchLingmo dia tetikasan'ny vondrona miorina amin'ny <a href=\"https://lingmo.org\">Lingmo OS</a>. Rindrambaiko malalaka eo ambanin'ny GPL.",
+ "lightbox.label": "Sary an-efijery nohalehibeazina"
+}

@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: li ambientie de pupitre Lingmo in Qt 6, sur Arch Linux. Descargar, exigenties e capturas de ecran.",
+ "lang.label": "Lingue",
+ "nav.about": "Pri",
+ "nav.features": "Functionalitás",
+ "nav.download": "Descargar",
+ "nav.requirements": "Exigenties",
+ "nav.screenshots": "Capturas",
+ "nav.videos": "Videos",
+ "nav.roadmap": "Plan",
+ "nav.community": "Comunité",
+ "hero.tagline": "Li ambientie de pupitre Lingmo in Qt 6, sur Arch Linux.",
+ "button.download": "Descargar li ISO",
+ "soon.iso": "ISO bentost",
+ "soon.discord": "Discord bentost",
+ "meta.version": "Version {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Li videos va venir bentost.",
+ "load.error": "Ne successat cargar {file}.",
+ "footer": "ArchLingmo es un projecte del comunité basat sur <a href=\"https://lingmo.org\">Lingmo OS</a>. Programmage liber sub li GPL.",
+ "lightbox.label": "Agrandat captura de ecran"
+}

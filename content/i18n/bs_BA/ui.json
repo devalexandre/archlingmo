@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Lingmo radna površina u Qt 6, na Arch Linuxu. Preuzimanje, zahtjevi i snimci ekrana.",
+ "lang.label": "Jezik",
+ "nav.about": "O projektu",
+ "nav.features": "Mogućnosti",
+ "nav.download": "Preuzimanje",
+ "nav.requirements": "Zahtjevi",
+ "nav.screenshots": "Snimci ekrana",
+ "nav.videos": "Video",
+ "nav.roadmap": "Plan razvoja",
+ "nav.community": "Zajednica",
+ "hero.tagline": "Lingmo radna površina u Qt 6, na Arch Linuxu.",
+ "button.download": "Preuzmi ISO",
+ "soon.iso": "ISO uskoro",
+ "soon.discord": "Discord uskoro",
+ "meta.version": "Verzija {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Video snimci stižu uskoro.",
+ "load.error": "Nije moguće učitati {file}.",
+ "footer": "ArchLingmo je projekat zajednice zasnovan na <a href=\"https://lingmo.org\">Lingmo OS</a>. Slobodan softver pod GPL licencom.",
+ "lightbox.label": "Uvećani snimak ekrana"
+}

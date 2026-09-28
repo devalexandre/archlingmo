@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: mediul desktop Lingmo în Qt 6, pe Arch Linux. Descărcare, cerințe și capturi de ecran.",
+ "lang.label": "Limbă",
+ "nav.about": "Despre",
+ "nav.features": "Funcții",
+ "nav.download": "Descărcare",
+ "nav.requirements": "Cerințe",
+ "nav.screenshots": "Capturi",
+ "nav.videos": "Videoclipuri",
+ "nav.roadmap": "Plan de dezvoltare",
+ "nav.community": "Comunitate",
+ "hero.tagline": "Mediul desktop Lingmo în Qt 6, pe Arch Linux.",
+ "button.download": "Descarcă ISO",
+ "soon.iso": "ISO în curând",
+ "soon.discord": "Discord în curând",
+ "meta.version": "Versiunea {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Videoclipurile vin în curând.",
+ "load.error": "Nu s-a putut încărca {file}.",
+ "footer": "ArchLingmo este un proiect comunitar bazat pe <a href=\"https://lingmo.org\">Lingmo OS</a>. Software liber sub licența GPL.",
+ "lightbox.label": "Captură de ecran mărită"
+}

@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: стільниця Lingmo на Qt 6 поверх Arch Linux. Завантаження, системні вимоги та знімки екрана.",
+ "lang.label": "Мова",
+ "nav.about": "Про проєкт",
+ "nav.features": "Можливості",
+ "nav.download": "Завантаження",
+ "nav.requirements": "Вимоги",
+ "nav.screenshots": "Знімки екрана",
+ "nav.videos": "Відео",
+ "nav.roadmap": "Дорожня карта",
+ "nav.community": "Спільнота",
+ "hero.tagline": "Стільниця Lingmo на Qt 6 поверх Arch Linux.",
+ "button.download": "Завантажити ISO",
+ "soon.iso": "ISO незабаром",
+ "soon.discord": "Discord незабаром",
+ "meta.version": "Версія {version}",
+ "meta.torrent": "Торент",
+ "videos.empty": "Відео незабаром з'являться.",
+ "load.error": "Не вдалося завантажити {file}.",
+ "footer": "ArchLingmo — проєкт спільноти на основі <a href=\"https://lingmo.org\">Lingmo OS</a>. Вільне програмне забезпечення під ліцензією GPL.",
+ "lightbox.label": "Збільшений знімок екрана"
+}

@@ -1,0 +1,15 @@
+## Képernyőképek
+
+![Üdvözlőképernyő az első bejelentkezéskor](screenshots/welcome.jpg)
+![Üdvözlőképernyő: világos vagy sötét téma és kiemelőszín](screenshots/welcome-appearance.jpg)
+![Vezérlőközpont: Wi-Fi, sötét mód, éjszakai fény és ne zavarjanak](screenshots/control-center.jpg)
+![Naptár a sávon lévő dátumra kattintva](screenshots/calendar.jpg)
+![Vágólapelőzmények (Super + V)](screenshots/clipboard.jpg)
+![Automatikus kamerakivágás videohívásokhoz](screenshots/camera.jpg)
+![Kijelzők: rendezd el őket húzással úgy, ahogy az asztalodon állnak](screenshots/displays.jpg)
+![Effektek: aktív sarkok és könyvlapozós Alt+Tab](screenshots/effects.jpg)
+![Asztal a dokkal és a Lingmo Arch háttérképpel](screenshots/desktop.jpg)
+![Fájlkezelő](screenshots/files.jpg)
+![Terminál Dracula témával](screenshots/terminal.jpg)
+![Spotlight számolás közben](screenshots/spotlight.jpg)
+![Beállítások, Megjelenés oldal](screenshots/settings.jpg)

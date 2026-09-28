@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: desktop Lingmo dengan Qt 6 di atas Arch Linux. Unduhan, persyaratan sistem, dan tangkapan layar.",
+ "lang.label": "Bahasa",
+ "nav.about": "Tentang",
+ "nav.features": "Fitur",
+ "nav.download": "Unduh",
+ "nav.requirements": "Persyaratan",
+ "nav.screenshots": "Tangkapan Layar",
+ "nav.videos": "Video",
+ "nav.roadmap": "Peta Jalan",
+ "nav.community": "Komunitas",
+ "hero.tagline": "Desktop Lingmo dengan Qt 6, di atas Arch Linux.",
+ "button.download": "Unduh ISO",
+ "soon.iso": "ISO segera hadir",
+ "soon.discord": "Discord segera hadir",
+ "meta.version": "Versi {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Video segera hadir.",
+ "load.error": "Tidak dapat memuat {file}.",
+ "footer": "ArchLingmo adalah proyek komunitas berbasis <a href=\"https://lingmo.org\">Lingmo OS</a>. Perangkat lunak bebas di bawah GPL.",
+ "lightbox.label": "Tangkapan layar diperbesar"
+}

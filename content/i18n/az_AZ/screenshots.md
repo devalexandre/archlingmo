@@ -1,0 +1,15 @@
+## Ekran şəkilləri
+
+![İlk girişdə xoş gəlmisiniz ekranı](screenshots/welcome.jpg)
+![Xoş gəlmisiniz: açıq və ya tünd mövzu və vurğu rəngi](screenshots/welcome-appearance.jpg)
+![İdarəetmə mərkəzi: Wi-Fi, tünd rejim, gecə işığı və narahat etməyin](screenshots/control-center.jpg)
+![Paneldəki tarixə klikləyəndə açılan təqvim](screenshots/calendar.jpg)
+![Mübadilə buferinin tarixçəsi (Super + V)](screenshots/clipboard.jpg)
+![Video zənglər üçün kameranın avtomatik kadrlanması](screenshots/camera.jpg)
+![Monitorlar: masanızdakı kimi düzmək üçün sürüşdürün](screenshots/displays.jpg)
+![Effektlər: aktiv künclər və kitab vərəqləri kimi Alt+Tab](screenshots/effects.jpg)
+![Dok və Lingmo Arch divar kağızı ilə iş masası](screenshots/desktop.jpg)
+![Fayl meneceri](screenshots/files.jpg)
+![Dracula mövzulu terminal](screenshots/terminal.jpg)
+![Spotlight hesablama edir](screenshots/spotlight.jpg)
+![Parametrlər, Görünüş səhifəsi](screenshots/settings.jpg)

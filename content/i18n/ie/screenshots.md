@@ -1,0 +1,15 @@
+## Capturas de ecran
+
+![Benevenit al unesim apertion de session](screenshots/welcome.jpg)
+![Benevenit: tema clar o obscur e color de accentuation](screenshots/welcome-appearance.jpg)
+![Centre de control: Wi-Fi, mode obscur, lúmine nocturn e ne-disturbar](screenshots/control-center.jpg)
+![Calendare per un clic sur li date in li panel](screenshots/calendar.jpg)
+![Historie del Paperiere (Super + V)](screenshots/clipboard.jpg)
+![Encadrament automatic del camera por video-telefonadas](screenshots/camera.jpg)
+![Ecranes: trenar les por arangear les quam sur vor tabul](screenshots/displays.jpg)
+![Effectes: angules activ e Alt+Tab quam págines de un libre](screenshots/effects.jpg)
+![Pupitre con li dock e li tapete Lingmo Arch](screenshots/desktop.jpg)
+![Gerente de files](screenshots/files.jpg)
+![Terminal con li tema Dracula](screenshots/terminal.jpg)
+![Spotlight fa un calculation](screenshots/spotlight.jpg)
+![Parametres, págine Aspecte](screenshots/settings.jpg)

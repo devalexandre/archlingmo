@@ -1,0 +1,15 @@
+## Screenshot
+
+![Benvenuto al primo accesso](screenshots/welcome.jpg)
+![Benvenuto: tema chiaro o scuro e colore d'accento](screenshots/welcome-appearance.jpg)
+![Centro di controllo: Wi-Fi, modalità scura, luce notturna e non disturbare](screenshots/control-center.jpg)
+![Calendario al clic sulla data nella barra](screenshots/calendar.jpg)
+![Cronologia degli appunti (Super + V)](screenshots/clipboard.jpg)
+![Inquadratura automatica della webcam per le videochiamate](screenshots/camera.jpg)
+![Schermi: trascinali per disporli come sulla scrivania](screenshots/displays.jpg)
+![Effetti: angoli attivi e Alt+Tab a pagine di libro](screenshots/effects.jpg)
+![Desktop con il dock e lo sfondo Lingmo Arch](screenshots/desktop.jpg)
+![Gestore file](screenshots/files.jpg)
+![Terminale con il tema Dracula](screenshots/terminal.jpg)
+![Spotlight che esegue un calcolo](screenshots/spotlight.jpg)
+![Impostazioni, pagina Aspetto](screenshots/settings.jpg)

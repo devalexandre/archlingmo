@@ -1,0 +1,15 @@
+## 螢幕截圖
+
+![首次登入時的歡迎畫面](screenshots/welcome.jpg)
+![歡迎畫面：淺色或深色主題及強調色](screenshots/welcome-appearance.jpg)
+![控制中心：Wi-Fi、深色模式、夜間模式及請勿打擾](screenshots/control-center.jpg)
+![按頂部列日期彈出的月曆](screenshots/calendar.jpg)
+![剪貼簿記錄（Super + V）](screenshots/clipboard.jpg)
+![視像通話時相機自動取景](screenshots/camera.jpg)
+![顯示器：按照枱面上的擺位拖曳排列](screenshots/displays.jpg)
+![特效：熱點角落及翻書頁式 Alt+Tab](screenshots/effects.jpg)
+![帶有 Dock 及 Lingmo Arch 桌面背景的桌面](screenshots/desktop.jpg)
+![檔案管理員](screenshots/files.jpg)
+![採用 Dracula 主題的終端機](screenshots/terminal.jpg)
+![Spotlight 正在計數](screenshots/spotlight.jpg)
+![設定的「外觀」頁面](screenshots/settings.jpg)

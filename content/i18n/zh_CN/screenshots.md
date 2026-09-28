@@ -1,0 +1,15 @@
+## 截图
+
+![首次登录时的欢迎向导](screenshots/welcome.jpg)
+![欢迎向导：浅色或深色主题与强调色](screenshots/welcome-appearance.jpg)
+![控制中心：Wi-Fi、深色模式、夜间模式和勿扰模式](screenshots/control-center.jpg)
+![点击顶栏日期弹出的日历](screenshots/calendar.jpg)
+![剪贴板历史（Super + V）](screenshots/clipboard.jpg)
+![视频通话时摄像头自动取景](screenshots/camera.jpg)
+![显示器：按照桌上的摆放位置拖动排列](screenshots/displays.jpg)
+![特效：触发角和翻书式 Alt+Tab](screenshots/effects.jpg)
+![带程序坞和 Lingmo Arch 壁纸的桌面](screenshots/desktop.jpg)
+![文件管理器](screenshots/files.jpg)
+![Dracula 主题的终端](screenshots/terminal.jpg)
+![Spotlight 正在计算](screenshots/spotlight.jpg)
+![设置中的“外观”页面](screenshots/settings.jpg)

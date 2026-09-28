@@ -1,0 +1,15 @@
+## Ekran görüntüleri
+
+![İlk oturum açılışında karşılama](screenshots/welcome.jpg)
+![Karşılama: açık ya da koyu tema ve vurgu rengi](screenshots/welcome-appearance.jpg)
+![Denetim merkezi: Wi-Fi, koyu mod, gece ışığı ve rahatsız etmeyin](screenshots/control-center.jpg)
+![Çubuktaki tarihe tıklayınca açılan takvim](screenshots/calendar.jpg)
+![Pano geçmişi (Super + V)](screenshots/clipboard.jpg)
+![Görüntülü görüşmeler için kameranın otomatik çerçevelemesi](screenshots/camera.jpg)
+![Ekranlar: masadaki yerleşime göre sürükleyip düzenleyin](screenshots/displays.jpg)
+![Efektler: etkin köşeler ve kitap sayfası gibi Alt+Tab](screenshots/effects.jpg)
+![Dock ve Lingmo Arch duvar kâğıdıyla masaüstü](screenshots/desktop.jpg)
+![Dosya yöneticisi](screenshots/files.jpg)
+![Dracula temalı terminal](screenshots/terminal.jpg)
+![Hesap yapan Spotlight](screenshots/spotlight.jpg)
+![Ayarlar, Görünüm sayfası](screenshots/settings.jpg)

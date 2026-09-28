@@ -1,0 +1,15 @@
+## Ekrānuzņēmumi
+
+![Sveiciens pirmajā pieteikšanās reizē](screenshots/welcome.jpg)
+![Sveiciens: gaišs vai tumšs motīvs un akcenta krāsa](screenshots/welcome-appearance.jpg)
+![Vadības centrs: Wi-Fi, tumšais režīms, nakts gaisma un netraucēt](screenshots/control-center.jpg)
+![Kalendārs, noklikšķinot uz datuma joslā](screenshots/calendar.jpg)
+![Starpliktuves vēsture (Super + V)](screenshots/clipboard.jpg)
+![Automātiska kameras kadrēšana videozvaniem](screenshots/camera.jpg)
+![Displeji: velciet, lai sakārtotu tā, kā tie stāv uz galda](screenshots/displays.jpg)
+![Efekti: aktīvie stūri un Alt+Tab kā grāmatas lapas](screenshots/effects.jpg)
+![Darbvirsma ar doku un Lingmo Arch fona attēlu](screenshots/desktop.jpg)
+![Failu pārvaldnieks](screenshots/files.jpg)
+![Terminālis ar Dracula motīvu](screenshots/terminal.jpg)
+![Spotlight veic aprēķinu](screenshots/spotlight.jpg)
+![Iestatījumi, lapa “Izskats”](screenshots/settings.jpg)

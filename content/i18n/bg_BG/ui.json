@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: работната среда Lingmo на Qt 6 върху Arch Linux. Изтегляне, изисквания и снимки на екрана.",
+ "lang.label": "Език",
+ "nav.about": "За проекта",
+ "nav.features": "Възможности",
+ "nav.download": "Изтегляне",
+ "nav.requirements": "Изисквания",
+ "nav.screenshots": "Снимки",
+ "nav.videos": "Видеа",
+ "nav.roadmap": "Пътна карта",
+ "nav.community": "Общност",
+ "hero.tagline": "Работната среда Lingmo на Qt 6 върху Arch Linux.",
+ "button.download": "Изтегляне на ISO",
+ "soon.iso": "ISO очаквайте скоро",
+ "soon.discord": "Discord очаквайте скоро",
+ "meta.version": "Версия {version}",
+ "meta.torrent": "Торент",
+ "videos.empty": "Видеата идват скоро.",
+ "load.error": "{file} не можа да бъде зареден.",
+ "footer": "ArchLingmo е проект на общността, базиран на <a href=\"https://lingmo.org\">Lingmo OS</a>. Свободен софтуер под лиценза GPL.",
+ "lightbox.label": "Увеличена снимка на екрана"
+}

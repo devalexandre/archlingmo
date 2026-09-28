@@ -1,0 +1,15 @@
+## Snímky obrazovky
+
+![Uvítání při prvním přihlášení](screenshots/welcome.jpg)
+![Uvítání: světlý nebo tmavý motiv a barva zvýraznění](screenshots/welcome-appearance.jpg)
+![Ovládací centrum: Wi-Fi, tmavý režim, noční světlo a nerušit](screenshots/control-center.jpg)
+![Kalendář po kliknutí na datum v panelu](screenshots/calendar.jpg)
+![Historie schránky (Super + V)](screenshots/clipboard.jpg)
+![Automatické zarámování kamery pro videohovory](screenshots/camera.jpg)
+![Displeje: přetažením je uspořádáte tak, jak stojí na stole](screenshots/displays.jpg)
+![Efekty: aktivní rohy a Alt+Tab jako listy knihy](screenshots/effects.jpg)
+![Plocha s dokem a tapetou Lingmo Arch](screenshots/desktop.jpg)
+![Správce souborů](screenshots/files.jpg)
+![Terminál s motivem Dracula](screenshots/terminal.jpg)
+![Spotlight při počítání příkladu](screenshots/spotlight.jpg)
+![Nastavení, stránka Vzhled](screenshots/settings.jpg)

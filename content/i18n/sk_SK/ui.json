@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: prostredie Lingmo v Qt 6 postavené na Arch Linuxe. Stiahnutie, požiadavky a snímky obrazovky.",
+ "lang.label": "Jazyk",
+ "nav.about": "O projekte",
+ "nav.features": "Funkcie",
+ "nav.download": "Stiahnuť",
+ "nav.requirements": "Požiadavky",
+ "nav.screenshots": "Snímky",
+ "nav.videos": "Videá",
+ "nav.roadmap": "Plán vývoja",
+ "nav.community": "Komunita",
+ "hero.tagline": "Prostredie Lingmo v Qt 6 postavené na Arch Linuxe.",
+ "button.download": "Stiahnuť ISO",
+ "soon.iso": "ISO už čoskoro",
+ "soon.discord": "Discord už čoskoro",
+ "meta.version": "Verzia {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Videá pribudnú už čoskoro.",
+ "load.error": "Súbor {file} sa nepodarilo načítať.",
+ "footer": "ArchLingmo je komunitný projekt založený na <a href=\"https://lingmo.org\">Lingmo OS</a>. Slobodný softvér pod licenciou GPL.",
+ "lightbox.label": "Zväčšená snímka obrazovky"
+}

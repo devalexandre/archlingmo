@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Arch Linux asosidagi Qt 6 da yozilgan Lingmo ish stoli. Yuklab olish, tizim talablari va skrinshotlar.",
+ "lang.label": "Til",
+ "nav.about": "Loyiha haqida",
+ "nav.features": "Imkoniyatlar",
+ "nav.download": "Yuklab olish",
+ "nav.requirements": "Talablar",
+ "nav.screenshots": "Skrinshotlar",
+ "nav.videos": "Videolar",
+ "nav.roadmap": "Rejalar",
+ "nav.community": "Hamjamiyat",
+ "hero.tagline": "Arch Linux asosidagi Qt 6 da yozilgan Lingmo ish stoli.",
+ "button.download": "ISO’ni yuklab olish",
+ "soon.iso": "ISO tez orada",
+ "soon.discord": "Discord tez orada",
+ "meta.version": "Versiya {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Videolar tez orada qo‘shiladi.",
+ "load.error": "{file} faylini yuklab bo‘lmadi.",
+ "footer": "ArchLingmo — <a href=\"https://lingmo.org\">Lingmo OS</a> asosidagi hamjamiyat loyihasi. GPL litsenziyasi ostidagi erkin dasturiy ta’minot.",
+ "lightbox.label": "Kattalashtirilgan skrinshot"
+}

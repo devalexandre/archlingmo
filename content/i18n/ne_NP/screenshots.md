@@ -1,0 +1,15 @@
+## स्क्रिनसटहरू
+
+![पहिलो लगइनमा स्वागत](screenshots/welcome.jpg)
+![स्वागत: उज्यालो वा गाढा थिम र एक्सेन्ट रङ](screenshots/welcome-appearance.jpg)
+![नियन्त्रण केन्द्र: Wi-Fi, डार्क मोड, नाइट लाइट र डिस्टर्ब नगर्नुहोस्](screenshots/control-center.jpg)
+![प्यानलको मितिमा क्लिक गर्दा खुल्ने पात्रो](screenshots/calendar.jpg)
+![क्लिपबोर्ड इतिहास (Super + V)](screenshots/clipboard.jpg)
+![भिडियो कलका लागि क्यामेराको स्वचालित फ्रेमिङ](screenshots/camera.jpg)
+![डिस्प्ले: टेबलमा राखेजस्तै मिलाउन तान्नुहोस्](screenshots/displays.jpg)
+![इफेक्टहरू: हट कर्नर र किताबका पानाजस्तो Alt+Tab](screenshots/effects.jpg)
+![डक र Lingmo Arch वालपेपरसहितको डेस्कटप](screenshots/desktop.jpg)
+![फाइल म्यानेजर](screenshots/files.jpg)
+![Dracula थिमसहितको टर्मिनल](screenshots/terminal.jpg)
+![हिसाब गर्दै Spotlight](screenshots/spotlight.jpg)
+![सेटिङ, रूपरङ पृष्ठ](screenshots/settings.jpg)

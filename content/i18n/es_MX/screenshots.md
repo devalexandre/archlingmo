@@ -1,0 +1,15 @@
+## Capturas de pantalla
+
+![Bienvenida en el primer inicio de sesión](screenshots/welcome.jpg)
+![Bienvenida: tema claro u oscuro y color de acento](screenshots/welcome-appearance.jpg)
+![Centro de control: Wi-Fi, modo oscuro, luz nocturna y no molestar](screenshots/control-center.jpg)
+![Calendario al hacer clic en la fecha de la barra](screenshots/calendar.jpg)
+![Historial del portapapeles (Super + V)](screenshots/clipboard.jpg)
+![Encuadre automático de la cámara para videollamadas](screenshots/camera.jpg)
+![Pantallas: arrástralas para acomodarlas como están en tu escritorio](screenshots/displays.jpg)
+![Efectos: esquinas activas y Alt+Tab como hojas de libro](screenshots/effects.jpg)
+![Escritorio con el dock y el fondo de pantalla Lingmo Arch](screenshots/desktop.jpg)
+![Administrador de archivos](screenshots/files.jpg)
+![Terminal con el tema Dracula](screenshots/terminal.jpg)
+![Spotlight haciendo un cálculo](screenshots/spotlight.jpg)
+![Configuración, página Apariencia](screenshots/settings.jpg)

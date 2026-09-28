@@ -1,0 +1,15 @@
+## Tangkapan layar
+
+![Sambutan saat pertama kali masuk](screenshots/welcome.jpg)
+![Sambutan: tema terang atau gelap dan warna aksen](screenshots/welcome-appearance.jpg)
+![Pusat Kontrol: Wi-Fi, mode gelap, cahaya malam, dan jangan ganggu](screenshots/control-center.jpg)
+![Kalender saat tanggal di bilah diklik](screenshots/calendar.jpg)
+![Riwayat papan klip (Super + V)](screenshots/clipboard.jpg)
+![Pembingkaian kamera otomatis untuk panggilan video](screenshots/camera.jpg)
+![Layar: seret untuk mengatur posisinya seperti di meja Anda](screenshots/displays.jpg)
+![Efek: sudut aktif dan Alt+Tab bergaya halaman buku](screenshots/effects.jpg)
+![Desktop dengan dock dan wallpaper Lingmo Arch](screenshots/desktop.jpg)
+![Pengelola berkas](screenshots/files.jpg)
+![Terminal dengan tema Dracula](screenshots/terminal.jpg)
+![Spotlight sedang menghitung](screenshots/spotlight.jpg)
+![Pengaturan, halaman Tampilan](screenshots/settings.jpg)

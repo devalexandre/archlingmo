@@ -1,0 +1,15 @@
+## Ảnh chụp màn hình
+
+![Chào mừng ở lần đăng nhập đầu tiên](screenshots/welcome.jpg)
+![Chào mừng: giao diện sáng hoặc tối và màu nhấn](screenshots/welcome-appearance.jpg)
+![Trung tâm điều khiển: Wi-Fi, chế độ tối, ánh sáng ban đêm và không làm phiền](screenshots/control-center.jpg)
+![Lịch khi bấm vào ngày trên thanh](screenshots/calendar.jpg)
+![Lịch sử bộ nhớ tạm (Super + V)](screenshots/clipboard.jpg)
+![Tự động căn khung camera cho cuộc gọi video](screenshots/camera.jpg)
+![Màn hình: kéo để sắp xếp giống như trên bàn làm việc](screenshots/displays.jpg)
+![Hiệu ứng: góc nóng và Alt+Tab dạng lật trang sách](screenshots/effects.jpg)
+![Màn hình nền với dock và hình nền Lingmo Arch](screenshots/desktop.jpg)
+![Trình quản lý tệp](screenshots/files.jpg)
+![Terminal với giao diện Dracula](screenshots/terminal.jpg)
+![Spotlight đang tính toán](screenshots/spotlight.jpg)
+![Cài đặt, trang Giao diện](screenshots/settings.jpg)

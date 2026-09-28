@@ -1,0 +1,15 @@
+## Zdymki ekrana
+
+![Vitannie pry pieršym uvachodzie](screenshots/welcome.jpg)
+![Vitannie: svietłaja abo ciomnaja tema i koler akcentu](screenshots/welcome-appearance.jpg)
+![Centr kiravannia: Wi-Fi, ciomny režym, načnoje sviatło i «nie turbavać»](screenshots/control-center.jpg)
+![Kalandar pa kliku na datu na paneli](screenshots/calendar.jpg)
+![Historyja bufiera abmienu (Super + V)](screenshots/clipboard.jpg)
+![Aŭtamatyčnaje kadravannie kamiery dla videazvankoŭ](screenshots/camera.jpg)
+![Dyspłei: pieraciahvajcie, kab razmiaścić ich tak, jak jany stajać na stale](screenshots/displays.jpg)
+![Efiekty: aktyŭnyja vuhły i Alt+Tab u vyhladzie staronak knihi](screenshots/effects.jpg)
+![Pracoŭny stoł z dokam i špalerami Lingmo Arch](screenshots/desktop.jpg)
+![Fajłavy mieniedžar](screenshots/files.jpg)
+![Terminał z temaj Dracula](screenshots/terminal.jpg)
+![Spotlight ličyć prykład](screenshots/spotlight.jpg)
+![Nałady, staronka «Vyhlad»](screenshots/settings.jpg)

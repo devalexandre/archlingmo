@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Arch Linux üzerinde, Qt 6 ile Lingmo masaüstü. İndirme, sistem gereksinimleri ve ekran görüntüleri.",
+ "lang.label": "Dil",
+ "nav.about": "Hakkında",
+ "nav.features": "Özellikler",
+ "nav.download": "İndir",
+ "nav.requirements": "Gereksinimler",
+ "nav.screenshots": "Ekran görüntüleri",
+ "nav.videos": "Videolar",
+ "nav.roadmap": "Yol haritası",
+ "nav.community": "Topluluk",
+ "hero.tagline": "Arch Linux üzerinde, Qt 6 ile Lingmo masaüstü.",
+ "button.download": "ISO'yu indir",
+ "soon.iso": "ISO çok yakında",
+ "soon.discord": "Discord çok yakında",
+ "meta.version": "Sürüm {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Videolar çok yakında geliyor.",
+ "load.error": "{file} yüklenemedi.",
+ "footer": "ArchLingmo, <a href=\"https://lingmo.org\">Lingmo OS</a> tabanlı bir topluluk projesidir. GPL lisanslı özgür yazılım.",
+ "lightbox.label": "Büyütülmüş ekran görüntüsü"
+}

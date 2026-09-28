@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Lingmo darbvirsma ar Qt 6 uz Arch Linux. Lejupielāde, prasības un ekrānuzņēmumi.",
+ "lang.label": "Valoda",
+ "nav.about": "Par",
+ "nav.features": "Iespējas",
+ "nav.download": "Lejupielāde",
+ "nav.requirements": "Prasības",
+ "nav.screenshots": "Ekrānuzņēmumi",
+ "nav.videos": "Video",
+ "nav.roadmap": "Ceļvedis",
+ "nav.community": "Kopiena",
+ "hero.tagline": "Lingmo darbvirsma ar Qt 6 uz Arch Linux.",
+ "button.download": "Lejupielādēt ISO",
+ "soon.iso": "ISO drīzumā",
+ "soon.discord": "Discord drīzumā",
+ "meta.version": "Versija {version}",
+ "meta.torrent": "Torrents",
+ "videos.empty": "Video drīzumā būs pieejami.",
+ "load.error": "Neizdevās ielādēt {file}.",
+ "footer": "ArchLingmo ir kopienas projekts, kura pamatā ir <a href=\"https://lingmo.org\">Lingmo OS</a>. Brīva programmatūra ar GPL licenci.",
+ "lightbox.label": "Palielināts ekrānuzņēmums"
+}

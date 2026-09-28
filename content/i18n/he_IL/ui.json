@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: שולחן העבודה Lingmo ב-Qt 6, על גבי Arch Linux. הורדה, דרישות מערכת וצילומי מסך.",
+ "lang.label": "שפה",
+ "nav.about": "אודות",
+ "nav.features": "תכונות",
+ "nav.download": "הורדה",
+ "nav.requirements": "דרישות",
+ "nav.screenshots": "צילומי מסך",
+ "nav.videos": "סרטונים",
+ "nav.roadmap": "מפת דרכים",
+ "nav.community": "קהילה",
+ "hero.tagline": "שולחן העבודה Lingmo ב-Qt 6, על גבי Arch Linux.",
+ "button.download": "הורדת ISO",
+ "soon.iso": "ה-ISO יגיע בקרוב",
+ "soon.discord": "Discord בקרוב",
+ "meta.version": "גרסה {version}",
+ "meta.torrent": "טורנט",
+ "videos.empty": "סרטונים יגיעו בקרוב.",
+ "load.error": "לא ניתן לטעון את {file}.",
+ "footer": "ArchLingmo הוא פרויקט קהילתי המבוסס על <a href=\"https://lingmo.org\">Lingmo OS</a>. תוכנה חופשית תחת רישיון GPL.",
+ "lightbox.label": "צילום מסך מוגדל"
+}

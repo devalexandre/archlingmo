@@ -1,0 +1,15 @@
+## Capturi de ecran
+
+![Bun venit la prima autentificare](screenshots/welcome.jpg)
+![Bun venit: temă luminoasă sau întunecată și culoare de accent](screenshots/welcome-appearance.jpg)
+![Centrul de control: Wi-Fi, mod întunecat, lumină de noapte și nu deranjați](screenshots/control-center.jpg)
+![Calendarul afișat la clic pe data din bară](screenshots/calendar.jpg)
+![Istoricul clipboard-ului (Super + V)](screenshots/clipboard.jpg)
+![Încadrare automată a camerei pentru apeluri video](screenshots/camera.jpg)
+![Monitoare: trageți pentru a le aranja ca pe birou](screenshots/displays.jpg)
+![Efecte: colțuri active și Alt+Tab ca filele unei cărți](screenshots/effects.jpg)
+![Desktopul cu dock-ul și imaginea de fundal Lingmo Arch](screenshots/desktop.jpg)
+![Managerul de fișiere](screenshots/files.jpg)
+![Terminal cu tema Dracula](screenshots/terminal.jpg)
+![Spotlight făcând un calcul](screenshots/spotlight.jpg)
+![Setări, pagina Aspect](screenshots/settings.jpg)

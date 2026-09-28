@@ -1,0 +1,15 @@
+## Здымкі экрана
+
+![Вітанне пры першым уваходзе](screenshots/welcome.jpg)
+![Вітанне: светлая ці цёмная тэма і колер акцэнту](screenshots/welcome-appearance.jpg)
+![Цэнтр кіравання: Wi-Fi, цёмны рэжым, начное асвятленне і «Не турбаваць»](screenshots/control-center.jpg)
+![Каляндар па націсканні на дату на панэлі](screenshots/calendar.jpg)
+![Гісторыя буфера абмену (Super + V)](screenshots/clipboard.jpg)
+![Аўтаматычнае кадраванне камеры для відэазванкоў](screenshots/camera.jpg)
+![Маніторы: перацягвайце, каб размясціць іх, як на стале](screenshots/displays.jpg)
+![Эфекты: актыўныя вуглы і Alt+Tab, як старонкі кнігі](screenshots/effects.jpg)
+![Працоўны стол з докам і шпалерамі Lingmo Arch](screenshots/desktop.jpg)
+![Кіраўнік файлаў](screenshots/files.jpg)
+![Тэрмінал з тэмай Dracula](screenshots/terminal.jpg)
+![Spotlight робіць вылічэнне](screenshots/spotlight.jpg)
+![Налады, старонка «Выгляд»](screenshots/settings.jpg)

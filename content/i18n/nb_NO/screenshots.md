@@ -1,0 +1,15 @@
+## Skjermbilder
+
+![Velkomst ved første innlogging](screenshots/welcome.jpg)
+![Velkomst: lyst eller mørkt tema og uthevingsfarge](screenshots/welcome-appearance.jpg)
+![Kontrollsenter: Wi-Fi, mørk modus, nattlys og ikke forstyrr](screenshots/control-center.jpg)
+![Kalender når du klikker på datoen i linjen](screenshots/calendar.jpg)
+![Utklippstavlehistorikk (Super + V)](screenshots/clipboard.jpg)
+![Automatisk kamerainnramming for videosamtaler](screenshots/camera.jpg)
+![Skjermer: dra for å ordne dem slik de står på pulten](screenshots/displays.jpg)
+![Effekter: aktive hjørner og Alt+Tab som boksider](screenshots/effects.jpg)
+![Skrivebordet med docken og Lingmo Arch-bakgrunnen](screenshots/desktop.jpg)
+![Filbehandler](screenshots/files.jpg)
+![Terminal med Dracula-temaet](screenshots/terminal.jpg)
+![Spotlight som regner ut et regnestykke](screenshots/spotlight.jpg)
+![Innstillinger, siden Utseende](screenshots/settings.jpg)

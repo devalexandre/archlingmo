@@ -1,0 +1,15 @@
+## Ekrano nuotraukos
+
+![Pasisveikinimas pirmą kartą prisijungus](screenshots/welcome.jpg)
+![Pasisveikinimas: šviesi ar tamsi tema ir akcento spalva](screenshots/welcome-appearance.jpg)
+![Valdymo centras: Wi-Fi, tamsusis režimas, naktinė šviesa ir netrukdymo režimas](screenshots/control-center.jpg)
+![Kalendorius paspaudus datą juostoje](screenshots/calendar.jpg)
+![Iškarpinės istorija (Super + V)](screenshots/clipboard.jpg)
+![Automatinis kameros kadravimas vaizdo skambučiams](screenshots/camera.jpg)
+![Ekranai: vilkite, kad sudėliotumėte taip, kaip jie stovi ant stalo](screenshots/displays.jpg)
+![Efektai: aktyvūs kampai ir Alt+Tab tarsi knygos puslapiai](screenshots/effects.jpg)
+![Darbalaukis su doku ir Lingmo Arch fonu](screenshots/desktop.jpg)
+![Failų tvarkytuvė](screenshots/files.jpg)
+![Terminalas su Dracula tema](screenshots/terminal.jpg)
+![Spotlight atlieka skaičiavimą](screenshots/spotlight.jpg)
+![Nustatymai, puslapis Išvaizda](screenshots/settings.jpg)

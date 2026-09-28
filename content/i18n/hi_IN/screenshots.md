@@ -1,0 +1,15 @@
+## स्क्रीनशॉट
+
+![पहली बार लॉगिन पर स्वागत स्क्रीन](screenshots/welcome.jpg)
+![स्वागत स्क्रीन: लाइट या डार्क थीम और एक्सेंट रंग](screenshots/welcome-appearance.jpg)
+![कंट्रोल सेंटर: Wi-Fi, डार्क मोड, नाइट लाइट और डू नॉट डिस्टर्ब](screenshots/control-center.jpg)
+![बार में तारीख पर क्लिक करने पर कैलेंडर](screenshots/calendar.jpg)
+![क्लिपबोर्ड इतिहास (Super + V)](screenshots/clipboard.jpg)
+![वीडियो कॉल के लिए कैमरे की ऑटोमैटिक फ़्रेमिंग](screenshots/camera.jpg)
+![डिस्प्ले: डेस्क पर जैसे रखे हैं, वैसे ही खींचकर व्यवस्थित करें](screenshots/displays.jpg)
+![इफ़ेक्ट: हॉट कॉर्नर और किताब के पन्नों जैसा Alt+Tab](screenshots/effects.jpg)
+![डॉक और Lingmo Arch वॉलपेपर के साथ डेस्कटॉप](screenshots/desktop.jpg)
+![फ़ाइल मैनेजर](screenshots/files.jpg)
+![Dracula थीम वाला टर्मिनल](screenshots/terminal.jpg)
+![Spotlight में गणना](screenshots/spotlight.jpg)
+![सेटिंग्स, रूप-रंग पेज](screenshots/settings.jpg)

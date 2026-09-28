@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Arch Linux-ൽ Qt 6-ൽ നിർമ്മിച്ച Lingmo ഡെസ്ക്ടോപ്പ്. ഡൗൺലോഡ്, ആവശ്യകതകൾ, സ്ക്രീൻഷോട്ടുകൾ.",
+ "lang.label": "ഭാഷ",
+ "nav.about": "വിവരം",
+ "nav.features": "സവിശേഷതകൾ",
+ "nav.download": "ഡൗൺലോഡ്",
+ "nav.requirements": "ആവശ്യകതകൾ",
+ "nav.screenshots": "സ്ക്രീൻഷോട്ടുകൾ",
+ "nav.videos": "വീഡിയോകൾ",
+ "nav.roadmap": "റോഡ്മാപ്പ്",
+ "nav.community": "കമ്മ്യൂണിറ്റി",
+ "hero.tagline": "Arch Linux-ൽ, Qt 6-ൽ നിർമ്മിച്ച Lingmo ഡെസ്ക്ടോപ്പ്.",
+ "button.download": "ISO ഡൗൺലോഡ് ചെയ്യുക",
+ "soon.iso": "ISO ഉടൻ വരുന്നു",
+ "soon.discord": "Discord ഉടൻ വരുന്നു",
+ "meta.version": "പതിപ്പ് {version}",
+ "meta.torrent": "ടോറന്റ്",
+ "videos.empty": "വീഡിയോകൾ ഉടൻ വരുന്നു.",
+ "load.error": "{file} ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല.",
+ "footer": "<a href=\"https://lingmo.org\">Lingmo OS</a> അടിസ്ഥാനമാക്കിയുള്ള ഒരു കമ്മ്യൂണിറ്റി പ്രോജക്റ്റാണ് ArchLingmo. GPL ലൈസൻസിലുള്ള സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ.",
+ "lightbox.label": "വലുതാക്കിയ സ്ക്രീൻഷോട്ട്"
+}

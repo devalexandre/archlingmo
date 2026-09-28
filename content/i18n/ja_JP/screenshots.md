@@ -1,0 +1,15 @@
+## スクリーンショット
+
+![初回ログイン時のようこそ画面](screenshots/welcome.jpg)
+![ようこそ画面：ライト／ダークテーマとアクセントカラー](screenshots/welcome-appearance.jpg)
+![コントロールセンター：Wi-Fi、ダークモード、夜間モード、おやすみモード](screenshots/control-center.jpg)
+![バーの日付をクリックすると開くカレンダー](screenshots/calendar.jpg)
+![クリップボード履歴（Super + V）](screenshots/clipboard.jpg)
+![ビデオ通話向けのカメラ自動フレーミング](screenshots/camera.jpg)
+![ディスプレイ：机の上と同じ並びになるようドラッグで配置](screenshots/displays.jpg)
+![エフェクト：ホットコーナーと本のページのような Alt+Tab](screenshots/effects.jpg)
+![Dock と Lingmo Arch の壁紙が表示されたデスクトップ](screenshots/desktop.jpg)
+![ファイルマネージャー](screenshots/files.jpg)
+![Dracula テーマのターミナル](screenshots/terminal.jpg)
+![計算中の Spotlight](screenshots/spotlight.jpg)
+![設定の「外観」ページ](screenshots/settings.jpg)

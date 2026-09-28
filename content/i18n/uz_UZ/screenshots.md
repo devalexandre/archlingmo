@@ -1,0 +1,15 @@
+## Skrinshotlar
+
+![Birinchi kirishdagi xush kelibsiz oynasi](screenshots/welcome.jpg)
+![Xush kelibsiz: yorug‘ yoki qorong‘i mavzu va urg‘u rangi](screenshots/welcome-appearance.jpg)
+![Boshqaruv markazi: Wi-Fi, qorong‘i rejim, tungi yorug‘lik va «Bezovta qilinmasin»](screenshots/control-center.jpg)
+![Paneldagi sanani bosganda chiqadigan taqvim](screenshots/calendar.jpg)
+![Almashish buferi tarixi (Super + V)](screenshots/clipboard.jpg)
+![Videoqo‘ng‘iroqlar uchun kamerani avtomatik kadrlash](screenshots/camera.jpg)
+![Monitorlar: stolda qanday tursa, shunday sudrab joylashtiring](screenshots/displays.jpg)
+![Effektlar: faol burchaklar va kitob varaqlariga o‘xshash Alt+Tab](screenshots/effects.jpg)
+![Dock va Lingmo Arch fon rasmi bilan ish stoli](screenshots/desktop.jpg)
+![Fayl menejeri](screenshots/files.jpg)
+![Dracula mavzuli terminal](screenshots/terminal.jpg)
+![Spotlight hisob-kitob qilmoqda](screenshots/spotlight.jpg)
+![Sozlamalar, Ko‘rinish sahifasi](screenshots/settings.jpg)

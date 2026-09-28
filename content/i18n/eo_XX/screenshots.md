@@ -1,0 +1,15 @@
+## Ekrankopioj
+
+![Bonvenigo ĉe la unua ensaluto](screenshots/welcome.jpg)
+![Bonvenigo: hela aŭ malhela etoso kaj emfaza koloro](screenshots/welcome-appearance.jpg)
+![Regejo: Wi-Fi, malhela reĝimo, nokta lumo kaj ne ĝenu](screenshots/control-center.jpg)
+![Kalendaro per klako sur la dato en la breto](screenshots/calendar.jpg)
+![Historio de la tondujo (Super + V)](screenshots/clipboard.jpg)
+![Aŭtomata kadrigo de la kamerao por videovokoj](screenshots/camera.jpg)
+![Ekranoj: trenu por ordigi ilin kiel ili staras sur la skribotablo](screenshots/displays.jpg)
+![Efektoj: aktivaj anguloj kaj Alt+Tab kiel libropaĝoj](screenshots/effects.jpg)
+![Labortablo kun la doko kaj la ekranfono Lingmo Arch](screenshots/desktop.jpg)
+![Dosieradministrilo](screenshots/files.jpg)
+![Terminalo kun la etoso Dracula](screenshots/terminal.jpg)
+![Spotlight kalkulanta](screenshots/spotlight.jpg)
+![Agordoj, paĝo Aspekto](screenshots/settings.jpg)

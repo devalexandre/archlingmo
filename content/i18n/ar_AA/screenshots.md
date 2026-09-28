@@ -1,0 +1,15 @@
+## لقطات الشاشة
+
+![شاشة الترحيب عند أول تسجيل دخول](screenshots/welcome.jpg)
+![الترحيب: سمة فاتحة أو داكنة ولون التمييز](screenshots/welcome-appearance.jpg)
+![مركز التحكم: Wi-Fi والوضع الداكن والإضاءة الليلية وعدم الإزعاج](screenshots/control-center.jpg)
+![التقويم عند النقر على التاريخ في الشريط](screenshots/calendar.jpg)
+![سجل الحافظة (Super + V)](screenshots/clipboard.jpg)
+![تأطير تلقائي للكاميرا في مكالمات الفيديو](screenshots/camera.jpg)
+![الشاشات: اسحبها لترتيبها كما هي على مكتبك](screenshots/displays.jpg)
+![التأثيرات: الزوايا النشطة وAlt+Tab على هيئة صفحات كتاب](screenshots/effects.jpg)
+![سطح المكتب مع Dock وخلفية Lingmo Arch](screenshots/desktop.jpg)
+![مدير الملفات](screenshots/files.jpg)
+![الطرفية بسمة Dracula](screenshots/terminal.jpg)
+![Spotlight يجري عملية حسابية](screenshots/spotlight.jpg)
+![الإعدادات، صفحة المظهر](screenshots/settings.jpg)

@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: pracoŭnaje asiaroddzie Lingmo na Qt 6 dla Arch Linux. Spampoŭka, sistemnyja patrabavanni i zdymki ekrana.",
+ "lang.label": "Mova",
+ "nav.about": "Pra prajekt",
+ "nav.features": "Mahčymaści",
+ "nav.download": "Spampavać",
+ "nav.requirements": "Patrabavanni",
+ "nav.screenshots": "Zdymki",
+ "nav.videos": "Videa",
+ "nav.roadmap": "Płan razviccia",
+ "nav.community": "Supolnaść",
+ "hero.tagline": "Pracoŭnaje asiaroddzie Lingmo na Qt 6 dla Arch Linux.",
+ "button.download": "Spampavać ISO",
+ "soon.iso": "ISO chutka zjavicca",
+ "soon.discord": "Discord chutka zjavicca",
+ "meta.version": "Viersija {version}",
+ "meta.torrent": "Torent",
+ "videos.empty": "Videa chutka zjaviacca.",
+ "load.error": "Nie ŭdałosia zahruzić {file}.",
+ "footer": "ArchLingmo — prajekt supolnaści na asnovie <a href=\"https://lingmo.org\">Lingmo OS</a>. Volnaje prahramnaje zabiespiačennie pad licenzijaj GPL.",
+ "lightbox.label": "Pavialičany zdymak ekrana"
+}

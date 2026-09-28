@@ -1,0 +1,15 @@
+## Captures d’écran
+
+![Accueil à la première connexion](screenshots/welcome.jpg)
+![Accueil : thème clair ou sombre et couleur d’accentuation](screenshots/welcome-appearance.jpg)
+![Centre de contrôle : Wi-Fi, mode sombre, éclairage nocturne et ne pas déranger](screenshots/control-center.jpg)
+![Calendrier au clic sur la date dans la barre](screenshots/calendar.jpg)
+![Historique du presse-papiers (Super + V)](screenshots/clipboard.jpg)
+![Cadrage automatique de la caméra pour les appels vidéo](screenshots/camera.jpg)
+![Écrans : glissez-les pour les disposer comme sur votre bureau](screenshots/displays.jpg)
+![Effets : coins actifs et Alt+Tab en pages de livre](screenshots/effects.jpg)
+![Bureau avec le dock et le fond d’écran Lingmo Arch](screenshots/desktop.jpg)
+![Gestionnaire de fichiers](screenshots/files.jpg)
+![Terminal avec le thème Dracula](screenshots/terminal.jpg)
+![Spotlight en train de faire un calcul](screenshots/spotlight.jpg)
+![Paramètres, page Apparence](screenshots/settings.jpg)

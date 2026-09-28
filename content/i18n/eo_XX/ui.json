@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: la labortablo Lingmo en Qt 6, sur Arch Linux. Elŝuto, postuloj kaj ekrankopioj.",
+ "lang.label": "Lingvo",
+ "nav.about": "Pri",
+ "nav.features": "Funkcioj",
+ "nav.download": "Elŝuto",
+ "nav.requirements": "Postuloj",
+ "nav.screenshots": "Ekrankopioj",
+ "nav.videos": "Filmetoj",
+ "nav.roadmap": "Vojmapo",
+ "nav.community": "Komunumo",
+ "hero.tagline": "La labortablo Lingmo en Qt 6, sur Arch Linux.",
+ "button.download": "Elŝuti ISO",
+ "soon.iso": "ISO baldaŭ",
+ "soon.discord": "Discord baldaŭ",
+ "meta.version": "Versio {version}",
+ "meta.torrent": "Torento",
+ "videos.empty": "Filmetoj baldaŭ aperos.",
+ "load.error": "Ne eblis ŝargi {file}.",
+ "footer": "ArchLingmo estas komunuma projekto bazita sur <a href=\"https://lingmo.org\">Lingmo OS</a>. Libera programaro laŭ la GPL.",
+ "lightbox.label": "Pligrandigita ekrankopio"
+}

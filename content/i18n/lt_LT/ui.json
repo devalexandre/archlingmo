@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Lingmo darbalaukis su Qt 6, veikiantis Arch Linux pagrindu. Atsisiuntimas, reikalavimai ir ekrano nuotraukos.",
+ "lang.label": "Kalba",
+ "nav.about": "Apie",
+ "nav.features": "Galimybės",
+ "nav.download": "Atsisiųsti",
+ "nav.requirements": "Reikalavimai",
+ "nav.screenshots": "Ekrano nuotraukos",
+ "nav.videos": "Vaizdo įrašai",
+ "nav.roadmap": "Planai",
+ "nav.community": "Bendruomenė",
+ "hero.tagline": "Lingmo darbalaukis su Qt 6, veikiantis Arch Linux pagrindu.",
+ "button.download": "Atsisiųsti ISO",
+ "soon.iso": "ISO jau netrukus",
+ "soon.discord": "Discord jau netrukus",
+ "meta.version": "Versija {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Vaizdo įrašai pasirodys netrukus.",
+ "load.error": "Nepavyko įkelti {file}.",
+ "footer": "ArchLingmo yra bendruomenės projektas, sukurtas <a href=\"https://lingmo.org\">Lingmo OS</a> pagrindu. Laisva programinė įranga pagal GPL licenciją.",
+ "lightbox.label": "Padidinta ekrano nuotrauka"
+}

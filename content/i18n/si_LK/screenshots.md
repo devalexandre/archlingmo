@@ -1,0 +1,15 @@
+## තිර රූ
+
+![පළමු පිවිසුමේදී පිළිගැනීම](screenshots/welcome.jpg)
+![පිළිගැනීම: ආලෝකමත් හෝ අඳුරු තේමාව සහ උච්චාරණ වර්ණය](screenshots/welcome-appearance.jpg)
+![පාලන මධ්‍යස්ථානය: Wi-Fi, අඳුරු ප්‍රකාරය, රාත්‍රී ආලෝකය සහ බාධා නොකරන්න](screenshots/control-center.jpg)
+![තීරුවේ දිනය ක්ලික් කළ විට දින දර්ශනය](screenshots/calendar.jpg)
+![පසුරු පුවරු ඉතිහාසය (Super + V)](screenshots/clipboard.jpg)
+![වීඩියෝ ඇමතුම් සඳහා කැමරාවේ ස්වයංක්‍රීය රාමුගත කිරීම](screenshots/camera.jpg)
+![සංදර්ශක: මේසය මත ඇති ආකාරයටම ඇදගෙන ගොස් සකසන්න](screenshots/displays.jpg)
+![ප්‍රයෝග: සක්‍රිය කොන් සහ පොතක පිටු මෙන් Alt+Tab](screenshots/effects.jpg)
+![ඩොක් එක සහ Lingmo Arch බිතුපත සහිත ඩෙස්ක්ටොපය](screenshots/desktop.jpg)
+![ගොනු කළමනාකරු](screenshots/files.jpg)
+![Dracula තේමාව සහිත ටර්මිනලය](screenshots/terminal.jpg)
+![ගණනය කිරීමක් කරන Spotlight](screenshots/spotlight.jpg)
+![සැකසුම්, පෙනුම පිටුව](screenshots/settings.jpg)

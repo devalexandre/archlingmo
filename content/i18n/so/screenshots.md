@@ -1,0 +1,15 @@
+## Sawirrada shaashadda
+
+![Soo dhaweynta marka ugu horreysa ee la galo](screenshots/welcome.jpg)
+![Soo dhaweyn: mawduuc iftiin ama mugdi iyo midabka muujinta](screenshots/welcome-appearance.jpg)
+![Xarunta kontaroolka: Wi-Fi, habka mugdiga, iftiinka habeenka iyo ha i dhibin](screenshots/control-center.jpg)
+![Kalandarka marka la gujiyo taariikhda bar-ka](screenshots/calendar.jpg)
+![Taariikhda clipboard-ka (Super + V)](screenshots/clipboard.jpg)
+![Qaabaynta tooska ah ee kamarada ee wicitaannada muuqaalka](screenshots/camera.jpg)
+![Shaashadaha: jiid si aad ugu habayso sida ay miiska ugu yaalliin](screenshots/displays.jpg)
+![Saamaynno: geesaha firfircoon iyo Alt+Tab oo u eg bogagga buug](screenshots/effects.jpg)
+![Desktop-ka oo leh dock-ga iyo sawirka gidaarka Lingmo Arch](screenshots/desktop.jpg)
+![Maareeyaha faylasha](screenshots/files.jpg)
+![Terminal leh mawduuca Dracula](screenshots/terminal.jpg)
+![Spotlight oo xisaab samaynaya](screenshots/spotlight.jpg)
+![Dejinta, bogga Muuqaalka](screenshots/settings.jpg)

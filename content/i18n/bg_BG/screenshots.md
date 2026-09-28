@@ -1,0 +1,15 @@
+## Снимки на екрана
+
+![Добре дошли при първото влизане](screenshots/welcome.jpg)
+![Добре дошли: светла или тъмна тема и акцентен цвят](screenshots/welcome-appearance.jpg)
+![Контролен център: Wi-Fi, тъмен режим, нощна светлина и „Не безпокойте“](screenshots/control-center.jpg)
+![Календар при щракване върху датата в панела](screenshots/calendar.jpg)
+![История на клипборда (Super + V)](screenshots/clipboard.jpg)
+![Автоматично кадриране на камерата за видеоразговори](screenshots/camera.jpg)
+![Дисплеи: плъзнете, за да ги подредите както са на бюрото](screenshots/displays.jpg)
+![Ефекти: активни ъгли и Alt+Tab като страници на книга](screenshots/effects.jpg)
+![Работен плот с дока и тапета Lingmo Arch](screenshots/desktop.jpg)
+![Файлов мениджър](screenshots/files.jpg)
+![Терминал с темата Dracula](screenshots/terminal.jpg)
+![Spotlight пресмята сметка](screenshots/spotlight.jpg)
+![Настройки, страница „Външен вид“](screenshots/settings.jpg)

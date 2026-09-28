@@ -1,0 +1,15 @@
+## Снимци екрана
+
+![Добродошлица при првој пријави](screenshots/welcome.jpg)
+![Добродошлица: светла или тамна тема и боја истицања](screenshots/welcome-appearance.jpg)
+![Контролни центар: Wi-Fi, тамни режим, ноћно светло и не узнемиравај](screenshots/control-center.jpg)
+![Календар на клик на датум у панелу](screenshots/calendar.jpg)
+![Историја оставе (Super + V)](screenshots/clipboard.jpg)
+![Аутоматско кадрирање камере за видео позиве](screenshots/camera.jpg)
+![Екрани: превуците да их распоредите као што стоје на столу](screenshots/displays.jpg)
+![Ефекти: активни углови и Alt+Tab као листови књиге](screenshots/effects.jpg)
+![Радна површ са доком и позадином Lingmo Arch](screenshots/desktop.jpg)
+![Управник датотека](screenshots/files.jpg)
+![Терминал са Dracula темом](screenshots/terminal.jpg)
+![Spotlight рачуна](screenshots/spotlight.jpg)
+![Подешавања, страница Изглед](screenshots/settings.jpg)

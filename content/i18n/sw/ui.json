@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: eneo-kazi la Lingmo kwa Qt 6, juu ya Arch Linux. Pakua, mahitaji na picha za skrini.",
+ "lang.label": "Lugha",
+ "nav.about": "Kuhusu",
+ "nav.features": "Vipengele",
+ "nav.download": "Pakua",
+ "nav.requirements": "Mahitaji",
+ "nav.screenshots": "Picha za skrini",
+ "nav.videos": "Video",
+ "nav.roadmap": "Mpango",
+ "nav.community": "Jumuiya",
+ "hero.tagline": "Eneo-kazi la Lingmo kwa Qt 6, juu ya Arch Linux.",
+ "button.download": "Pakua ISO",
+ "soon.iso": "ISO inakuja hivi karibuni",
+ "soon.discord": "Discord inakuja hivi karibuni",
+ "meta.version": "Toleo {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Video zinakuja hivi karibuni.",
+ "load.error": "Imeshindwa kupakia {file}.",
+ "footer": "ArchLingmo ni mradi wa jumuiya unaotegemea <a href=\"https://lingmo.org\">Lingmo OS</a>. Programu huria chini ya leseni ya GPL.",
+ "lightbox.label": "Picha ya skrini iliyokuzwa"
+}

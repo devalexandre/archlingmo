@@ -1,0 +1,15 @@
+## Скриншоты
+
+![Приветствие при первом входе](screenshots/welcome.jpg)
+![Приветствие: светлая или тёмная тема и акцентный цвет](screenshots/welcome-appearance.jpg)
+![Центр управления: Wi-Fi, тёмный режим, ночной свет и «Не беспокоить»](screenshots/control-center.jpg)
+![Календарь по щелчку на дате в панели](screenshots/calendar.jpg)
+![История буфера обмена (Super + V)](screenshots/clipboard.jpg)
+![Автоматическое кадрирование камеры для видеозвонков](screenshots/camera.jpg)
+![Мониторы: расставьте их перетаскиванием так, как они стоят на столе](screenshots/displays.jpg)
+![Эффекты: активные углы и Alt+Tab в виде страниц книги](screenshots/effects.jpg)
+![Рабочий стол с доком и обоями Lingmo Arch](screenshots/desktop.jpg)
+![Файловый менеджер](screenshots/files.jpg)
+![Терминал с темой Dracula](screenshots/terminal.jpg)
+![Spotlight считает пример](screenshots/spotlight.jpg)
+![Настройки, страница «Оформление»](screenshots/settings.jpg)

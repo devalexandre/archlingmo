@@ -1,0 +1,15 @@
+## Screenshots
+
+![Welcome screen on first login](screenshots/welcome.jpg)
+![Welcome: light or dark theme and accent color](screenshots/welcome-appearance.jpg)
+![Control Center: Wi-Fi, dark mode, night light and do not disturb](screenshots/control-center.jpg)
+![Calendar when you click the date in the top bar](screenshots/calendar.jpg)
+![Clipboard history (Super + V)](screenshots/clipboard.jpg)
+![Automatic camera framing for video calls](screenshots/camera.jpg)
+![Displays: drag to arrange them the way they sit on your desk](screenshots/displays.jpg)
+![Effects: hot corners and a book-page Alt+Tab](screenshots/effects.jpg)
+![Desktop with the dock and the Lingmo Arch wallpaper](screenshots/desktop.jpg)
+![File manager](screenshots/files.jpg)
+![Terminal with the Dracula theme](screenshots/terminal.jpg)
+![Spotlight doing some math](screenshots/spotlight.jpg)
+![Settings, Appearance page](screenshots/settings.jpg)

@@ -1,0 +1,15 @@
+## צילומי מסך
+
+![מסך פתיחה בכניסה הראשונה](screenshots/welcome.jpg)
+![מסך פתיחה: ערכת נושא בהירה או כהה וצבע הדגשה](screenshots/welcome-appearance.jpg)
+![מרכז בקרה: Wi-Fi, מצב כהה, אור לילה ונא לא להפריע](screenshots/control-center.jpg)
+![לוח שנה בלחיצה על התאריך בסרגל](screenshots/calendar.jpg)
+![היסטוריית לוח העריכה (Super + V)](screenshots/clipboard.jpg)
+![מסגור אוטומטי של המצלמה לשיחות וידאו](screenshots/camera.jpg)
+![צגים: גררו כדי לסדר אותם כמו על השולחן](screenshots/displays.jpg)
+![אפקטים: פינות חמות ו-Alt+Tab כדפי ספר](screenshots/effects.jpg)
+![שולחן העבודה עם ה-Dock והרקע Lingmo Arch](screenshots/desktop.jpg)
+![מנהל הקבצים](screenshots/files.jpg)
+![מסוף עם ערכת הנושא Dracula](screenshots/terminal.jpg)
+![Spotlight מבצע חישוב](screenshots/spotlight.jpg)
+![הגדרות, עמוד המראה](screenshots/settings.jpg)

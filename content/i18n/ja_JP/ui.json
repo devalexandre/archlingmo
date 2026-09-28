@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo：Arch Linux 上で動く Qt 6 版 Lingmo デスクトップ。ダウンロード、動作環境、スクリーンショット。",
+ "lang.label": "言語",
+ "nav.about": "概要",
+ "nav.features": "機能",
+ "nav.download": "ダウンロード",
+ "nav.requirements": "動作環境",
+ "nav.screenshots": "スクリーンショット",
+ "nav.videos": "動画",
+ "nav.roadmap": "ロードマップ",
+ "nav.community": "コミュニティ",
+ "hero.tagline": "Arch Linux 上で動く、Qt 6 版 Lingmo デスクトップ。",
+ "button.download": "ISO をダウンロード",
+ "soon.iso": "ISO は近日公開",
+ "soon.discord": "Discord は近日公開",
+ "meta.version": "バージョン {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "動画は近日公開予定です。",
+ "load.error": "{file} を読み込めませんでした。",
+ "footer": "ArchLingmo は <a href=\"https://lingmo.org\">Lingmo OS</a> をベースにしたコミュニティプロジェクトです。GPL で公開されている自由ソフトウェアです。",
+ "lightbox.label": "拡大したスクリーンショット"
+}

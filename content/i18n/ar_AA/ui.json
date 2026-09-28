@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: سطح مكتب Lingmo بـ Qt 6 على Arch Linux. التنزيل ومتطلبات النظام ولقطات الشاشة.",
+ "lang.label": "اللغة",
+ "nav.about": "حول",
+ "nav.features": "الميزات",
+ "nav.download": "التنزيل",
+ "nav.requirements": "المتطلبات",
+ "nav.screenshots": "لقطات الشاشة",
+ "nav.videos": "الفيديوهات",
+ "nav.roadmap": "خارطة الطريق",
+ "nav.community": "المجتمع",
+ "hero.tagline": "سطح مكتب Lingmo بـ Qt 6، على Arch Linux.",
+ "button.download": "تنزيل ملف ISO",
+ "soon.iso": "ملف ISO قريبًا",
+ "soon.discord": "Discord قريبًا",
+ "meta.version": "الإصدار {version}",
+ "meta.torrent": "تورنت",
+ "videos.empty": "الفيديوهات قادمة قريبًا.",
+ "load.error": "تعذّر تحميل {file}.",
+ "footer": "ArchLingmo مشروع مجتمعي مبني على <a href=\"https://lingmo.org\">Lingmo OS</a>. برمجيات حرة بموجب رخصة GPL.",
+ "lightbox.label": "لقطة شاشة مكبّرة"
+}

@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Lingmo-skrivebordet i Qt 6, på Arch Linux. Nedlasting, systemkrav og skjermbilder.",
+ "lang.label": "Språk",
+ "nav.about": "Om",
+ "nav.features": "Funksjoner",
+ "nav.download": "Last ned",
+ "nav.requirements": "Systemkrav",
+ "nav.screenshots": "Skjermbilder",
+ "nav.videos": "Videoer",
+ "nav.roadmap": "Veikart",
+ "nav.community": "Fellesskap",
+ "hero.tagline": "Lingmo-skrivebordet i Qt 6, på Arch Linux.",
+ "button.download": "Last ned ISO",
+ "soon.iso": "ISO kommer snart",
+ "soon.discord": "Discord kommer snart",
+ "meta.version": "Versjon {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Videoer kommer snart.",
+ "load.error": "Kunne ikke laste inn {file}.",
+ "footer": "ArchLingmo er et fellesskapsprosjekt basert på <a href=\"https://lingmo.org\">Lingmo OS</a>. Fri programvare under GPL.",
+ "lightbox.label": "Forstørret skjermbilde"
+}

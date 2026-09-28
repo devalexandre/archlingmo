@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo：以 Qt 6 打造、執行於 Arch Linux 的 Lingmo 桌面。下載、系統需求與螢幕截圖。",
+ "lang.label": "語言",
+ "nav.about": "關於",
+ "nav.features": "功能",
+ "nav.download": "下載",
+ "nav.requirements": "系統需求",
+ "nav.screenshots": "螢幕截圖",
+ "nav.videos": "影片",
+ "nav.roadmap": "開發藍圖",
+ "nav.community": "社群",
+ "hero.tagline": "以 Qt 6 打造的 Lingmo 桌面，執行於 Arch Linux。",
+ "button.download": "下載 ISO",
+ "soon.iso": "ISO 即將推出",
+ "soon.discord": "Discord 即將推出",
+ "meta.version": "版本 {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "影片即將推出。",
+ "load.error": "無法載入 {file}。",
+ "footer": "ArchLingmo 是以 <a href=\"https://lingmo.org\">Lingmo OS</a> 為基礎的社群專案。以 GPL 授權釋出的自由軟體。",
+ "lightbox.label": "放大的螢幕截圖"
+}

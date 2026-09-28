@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo：基于 Arch Linux 的 Qt 6 版 Lingmo 桌面。下载、系统要求和截图。",
+ "lang.label": "语言",
+ "nav.about": "简介",
+ "nav.features": "功能",
+ "nav.download": "下载",
+ "nav.requirements": "系统要求",
+ "nav.screenshots": "截图",
+ "nav.videos": "视频",
+ "nav.roadmap": "路线图",
+ "nav.community": "社区",
+ "hero.tagline": "基于 Arch Linux 的 Qt 6 版 Lingmo 桌面。",
+ "button.download": "下载 ISO",
+ "soon.iso": "ISO 即将推出",
+ "soon.discord": "Discord 即将开放",
+ "meta.version": "版本 {version}",
+ "meta.torrent": "种子",
+ "videos.empty": "视频即将上线。",
+ "load.error": "无法加载 {file}。",
+ "footer": "ArchLingmo 是基于 <a href=\"https://lingmo.org\">Lingmo OS</a> 的社区项目。以 GPL 协议发布的自由软件。",
+ "lightbox.label": "放大的截图"
+}

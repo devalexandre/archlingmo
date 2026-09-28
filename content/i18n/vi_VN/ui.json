@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: môi trường desktop Lingmo trên Qt 6, chạy trên Arch Linux. Tải về, yêu cầu hệ thống và ảnh chụp màn hình.",
+ "lang.label": "Ngôn ngữ",
+ "nav.about": "Giới thiệu",
+ "nav.features": "Tính năng",
+ "nav.download": "Tải về",
+ "nav.requirements": "Yêu cầu",
+ "nav.screenshots": "Ảnh chụp",
+ "nav.videos": "Video",
+ "nav.roadmap": "Lộ trình",
+ "nav.community": "Cộng đồng",
+ "hero.tagline": "Môi trường desktop Lingmo trên Qt 6, chạy trên Arch Linux.",
+ "button.download": "Tải ISO",
+ "soon.iso": "ISO sắp ra mắt",
+ "soon.discord": "Discord sắp ra mắt",
+ "meta.version": "Phiên bản {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Video sẽ sớm có mặt.",
+ "load.error": "Không thể tải {file}.",
+ "footer": "ArchLingmo là một dự án cộng đồng dựa trên <a href=\"https://lingmo.org\">Lingmo OS</a>. Phần mềm tự do theo giấy phép GPL.",
+ "lightbox.label": "Ảnh chụp màn hình phóng to"
+}

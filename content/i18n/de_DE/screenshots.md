@@ -1,0 +1,15 @@
+## Bildschirmfotos
+
+![Willkommen bei der ersten Anmeldung](screenshots/welcome.jpg)
+![Willkommen: helles oder dunkles Design und Akzentfarbe](screenshots/welcome-appearance.jpg)
+![Kontrollzentrum: WLAN, Dunkelmodus, Nachtlicht und Nicht stören](screenshots/control-center.jpg)
+![Kalender per Klick auf das Datum in der Leiste](screenshots/calendar.jpg)
+![Zwischenablage-Verlauf (Super + V)](screenshots/clipboard.jpg)
+![Automatische Bildausrichtung der Kamera für Videoanrufe](screenshots/camera.jpg)
+![Bildschirme: per Ziehen so anordnen, wie sie auf dem Schreibtisch stehen](screenshots/displays.jpg)
+![Effekte: aktive Ecken und Alt+Tab als Buchseiten](screenshots/effects.jpg)
+![Desktop mit Dock und dem Hintergrundbild Lingmo Arch](screenshots/desktop.jpg)
+![Dateimanager](screenshots/files.jpg)
+![Terminal mit dem Dracula-Design](screenshots/terminal.jpg)
+![Spotlight beim Rechnen](screenshots/spotlight.jpg)
+![Einstellungen, Seite Erscheinungsbild](screenshots/settings.jpg)

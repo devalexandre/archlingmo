@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: desktop-ka Lingmo oo ku dhisan Qt 6, kuna shaqeeya Arch Linux. Soo dejin, shuruudaha nidaamka iyo sawirro shaashadda ah.",
+ "lang.label": "Luqadda",
+ "nav.about": "Ku saabsan",
+ "nav.features": "Astaamaha",
+ "nav.download": "Soo dejiso",
+ "nav.requirements": "Shuruudaha",
+ "nav.screenshots": "Sawirrada shaashadda",
+ "nav.videos": "Muuqaallo",
+ "nav.roadmap": "Qorshaha",
+ "nav.community": "Bulshada",
+ "hero.tagline": "Desktop-ka Lingmo oo ku dhisan Qt 6, kuna shaqeeya Arch Linux.",
+ "button.download": "Soo dejiso ISO",
+ "soon.iso": "ISO dhowaan",
+ "soon.discord": "Discord dhowaan",
+ "meta.version": "Nooca {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Muuqaallada dhowaan ayay imanayaan.",
+ "load.error": "Lama soo gelin karin {file}.",
+ "footer": "ArchLingmo waa mashruuc bulsho oo ku salaysan <a href=\"https://lingmo.org\">Lingmo OS</a>. Barnaamij xor ah oo hoos yimaada GPL.",
+ "lightbox.label": "Sawir shaashad oo la weyneeyay"
+}

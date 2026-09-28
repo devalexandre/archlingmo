@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: o ambiente de trabalho Lingmo em Qt 6, sobre o Arch Linux. Transferência, requisitos e capturas de ecrã.",
+ "lang.label": "Idioma",
+ "nav.about": "Sobre",
+ "nav.features": "Funcionalidades",
+ "nav.download": "Transferir",
+ "nav.requirements": "Requisitos",
+ "nav.screenshots": "Capturas",
+ "nav.videos": "Vídeos",
+ "nav.roadmap": "Roteiro",
+ "nav.community": "Comunidade",
+ "hero.tagline": "O ambiente de trabalho Lingmo em Qt 6, sobre o Arch Linux.",
+ "button.download": "Transferir ISO",
+ "soon.iso": "ISO brevemente",
+ "soon.discord": "Discord brevemente",
+ "meta.version": "Versão {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Os vídeos chegam brevemente.",
+ "load.error": "Não foi possível carregar {file}.",
+ "footer": "O ArchLingmo é um projeto comunitário baseado no <a href=\"https://lingmo.org\">Lingmo OS</a>. Software livre sob a GPL.",
+ "lightbox.label": "Captura de ecrã ampliada"
+}

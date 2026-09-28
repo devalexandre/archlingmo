@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: środowisko Lingmo w Qt 6, na Arch Linux. Pobieranie, wymagania i zrzuty ekranu.",
+ "lang.label": "Język",
+ "nav.about": "O projekcie",
+ "nav.features": "Funkcje",
+ "nav.download": "Pobierz",
+ "nav.requirements": "Wymagania",
+ "nav.screenshots": "Zrzuty ekranu",
+ "nav.videos": "Filmy",
+ "nav.roadmap": "Plany",
+ "nav.community": "Społeczność",
+ "hero.tagline": "Środowisko Lingmo w Qt 6, na Arch Linux.",
+ "button.download": "Pobierz ISO",
+ "soon.iso": "ISO już wkrótce",
+ "soon.discord": "Discord już wkrótce",
+ "meta.version": "Wersja {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "Filmy pojawią się wkrótce.",
+ "load.error": "Nie udało się wczytać {file}.",
+ "footer": "ArchLingmo to projekt społecznościowy oparty na <a href=\"https://lingmo.org\">Lingmo OS</a>. Wolne oprogramowanie na licencji GPL.",
+ "lightbox.label": "Powiększony zrzut ekranu"
+}

@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: Arch Linux माथि Qt 6 मा बनेको Lingmo डेस्कटप। डाउनलोड, आवश्यकताहरू र स्क्रिनसटहरू।",
+ "lang.label": "भाषा",
+ "nav.about": "परिचय",
+ "nav.features": "सुविधाहरू",
+ "nav.download": "डाउनलोड",
+ "nav.requirements": "आवश्यकताहरू",
+ "nav.screenshots": "स्क्रिनसटहरू",
+ "nav.videos": "भिडियोहरू",
+ "nav.roadmap": "कार्ययोजना",
+ "nav.community": "समुदाय",
+ "hero.tagline": "Arch Linux माथि Qt 6 मा बनेको Lingmo डेस्कटप।",
+ "button.download": "ISO डाउनलोड गर्नुहोस्",
+ "soon.iso": "ISO छिट्टै आउँदैछ",
+ "soon.discord": "Discord छिट्टै आउँदैछ",
+ "meta.version": "संस्करण {version}",
+ "meta.torrent": "टोरेन्ट",
+ "videos.empty": "भिडियोहरू छिट्टै आउँदैछन्।",
+ "load.error": "{file} लोड गर्न सकिएन।",
+ "footer": "ArchLingmo <a href=\"https://lingmo.org\">Lingmo OS</a> मा आधारित सामुदायिक परियोजना हो। GPL अन्तर्गत स्वतन्त्र सफ्टवेयर।",
+ "lightbox.label": "ठूलो गरिएको स्क्रिनसट"
+}

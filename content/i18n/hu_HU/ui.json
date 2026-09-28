@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: a Lingmo asztali környezet Qt 6-tal, Arch Linux alapokon. Letöltés, rendszerkövetelmények és képernyőképek.",
+ "lang.label": "Nyelv",
+ "nav.about": "Névjegy",
+ "nav.features": "Funkciók",
+ "nav.download": "Letöltés",
+ "nav.requirements": "Követelmények",
+ "nav.screenshots": "Képernyőképek",
+ "nav.videos": "Videók",
+ "nav.roadmap": "Ütemterv",
+ "nav.community": "Közösség",
+ "hero.tagline": "A Lingmo asztali környezet Qt 6-tal, Arch Linux alapokon.",
+ "button.download": "ISO letöltése",
+ "soon.iso": "Az ISO hamarosan érkezik",
+ "soon.discord": "A Discord hamarosan érkezik",
+ "meta.version": "Verzió: {version}",
+ "meta.torrent": "Torrent",
+ "videos.empty": "A videók hamarosan érkeznek.",
+ "load.error": "Nem sikerült betölteni: {file}.",
+ "footer": "Az ArchLingmo a <a href=\"https://lingmo.org\">Lingmo OS</a> alapján készült közösségi projekt. Szabad szoftver a GPL licenc alatt.",
+ "lightbox.label": "Felnagyított képernyőkép"
+}

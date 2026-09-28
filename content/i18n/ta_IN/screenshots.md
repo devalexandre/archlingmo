@@ -1,0 +1,15 @@
+## திரைப்பிடிப்புகள்
+
+![முதல் உள்நுழைவில் வரவேற்பு](screenshots/welcome.jpg)
+![வரவேற்பு: ஒளி அல்லது இருள் தீம் மற்றும் முதன்மை நிறம்](screenshots/welcome-appearance.jpg)
+![கட்டுப்பாட்டு மையம்: Wi-Fi, இருள் பயன்முறை, இரவு ஒளி மற்றும் தொந்தரவு செய்யாதே](screenshots/control-center.jpg)
+![பட்டையில் தேதியைச் சொடுக்கினால் நாள்காட்டி](screenshots/calendar.jpg)
+![கிளிப்போர்டு வரலாறு (Super + V)](screenshots/clipboard.jpg)
+![காணொளி அழைப்புகளுக்கான கேமராவின் தானியங்கி சட்டகமிடல்](screenshots/camera.jpg)
+![திரைகள்: மேசையில் இருப்பது போலவே இழுத்து ஒழுங்குபடுத்துங்கள்](screenshots/displays.jpg)
+![விளைவுகள்: செயலில் உள்ள மூலைகள் மற்றும் புத்தகப் பக்கங்களாக Alt+Tab](screenshots/effects.jpg)
+![டாக் மற்றும் Lingmo Arch பின்னணிப் படத்துடன் டெஸ்க்டாப்](screenshots/desktop.jpg)
+![கோப்பு மேலாளர்](screenshots/files.jpg)
+![Dracula தீமுடன் டெர்மினல்](screenshots/terminal.jpg)
+![கணக்கிடும் Spotlight](screenshots/spotlight.jpg)
+![அமைப்புகள், தோற்றம் பக்கம்](screenshots/settings.jpg)

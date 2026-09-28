@@ -1,0 +1,15 @@
+## Zrzuty ekranu
+
+![Powitanie przy pierwszym logowaniu](screenshots/welcome.jpg)
+![Powitanie: jasny lub ciemny motyw i kolor akcentu](screenshots/welcome-appearance.jpg)
+![Centrum sterowania: Wi-Fi, tryb ciemny, podświetlenie nocne i nie przeszkadzać](screenshots/control-center.jpg)
+![Kalendarz po kliknięciu daty w panelu](screenshots/calendar.jpg)
+![Historia schowka (Super + V)](screenshots/clipboard.jpg)
+![Automatyczne kadrowanie kamery podczas rozmów wideo](screenshots/camera.jpg)
+![Monitory: przeciągnij, aby ułożyć je tak jak na biurku](screenshots/displays.jpg)
+![Efekty: aktywne narożniki i Alt+Tab jak kartki książki](screenshots/effects.jpg)
+![Pulpit z dockiem i tapetą Lingmo Arch](screenshots/desktop.jpg)
+![Menedżer plików](screenshots/files.jpg)
+![Terminal z motywem Dracula](screenshots/terminal.jpg)
+![Spotlight wykonujący obliczenie](screenshots/spotlight.jpg)
+![Ustawienia, strona Wygląd](screenshots/settings.jpg)

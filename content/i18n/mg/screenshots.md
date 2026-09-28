@@ -1,0 +1,15 @@
+## Sary an-efijery
+
+![Fandraisana amin'ny fidirana voalohany](screenshots/welcome.jpg)
+![Fandraisana: endrika mazava na maizina ary loko manasongadina](screenshots/welcome-appearance.jpg)
+![Foibe fanaraha-maso: Wi-Fi, fomba maizina, jiro amin'ny alina ary aza manelingelina](screenshots/control-center.jpg)
+![Kalandrie rehefa tsindriana ny daty eo amin'ny bara](screenshots/calendar.jpg)
+![Tantaran'ny tahiry vonjimaika (Super + V)](screenshots/clipboard.jpg)
+![Fandrindrana ho azy ny fakantsary ho an'ny antso video](screenshots/camera.jpg)
+![Efijery: sintony mba handaminana azy toy ny apetraka eo ambony latabatra](screenshots/displays.jpg)
+![Effets: zoro mavitrika sy Alt+Tab toy ny pejin-boky](screenshots/effects.jpg)
+![Birao misy ny dock sy ny sary ambadika Lingmo Arch](screenshots/desktop.jpg)
+![Mpitantana rakitra](screenshots/files.jpg)
+![Terminal misy endrika Dracula](screenshots/terminal.jpg)
+![Spotlight manao kajy](screenshots/spotlight.jpg)
+![Fikirana, pejy Endrika](screenshots/settings.jpg)

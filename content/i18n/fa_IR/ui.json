@@ -1,0 +1,22 @@
+{
+ "meta.description": "ArchLingmo: میزکار Lingmo با Qt 6 بر پایهٔ Arch Linux. دانلود، پیش‌نیازها و تصاویر صفحه.",
+ "lang.label": "زبان",
+ "nav.about": "درباره",
+ "nav.features": "امکانات",
+ "nav.download": "دانلود",
+ "nav.requirements": "پیش‌نیازها",
+ "nav.screenshots": "تصاویر",
+ "nav.videos": "ویدیوها",
+ "nav.roadmap": "نقشهٔ راه",
+ "nav.community": "انجمن",
+ "hero.tagline": "میزکار Lingmo با Qt 6، بر پایهٔ Arch Linux.",
+ "button.download": "دانلود ISO",
+ "soon.iso": "ISO به‌زودی",
+ "soon.discord": "Discord به‌زودی",
+ "meta.version": "نسخهٔ {version}",
+ "meta.torrent": "تورنت",
+ "videos.empty": "ویدیوها به‌زودی اضافه می‌شوند.",
+ "load.error": "بارگذاری {file} ممکن نشد.",
+ "footer": "ArchLingmo یک پروژهٔ مردمی بر پایهٔ <a href=\"https://lingmo.org\">Lingmo OS</a> است. نرم‌افزار آزاد تحت مجوز GPL.",
+ "lightbox.label": "تصویر بزرگ‌شدهٔ صفحه"
+}

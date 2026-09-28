@@ -1,0 +1,15 @@
+## സ്ക്രീൻഷോട്ടുകൾ
+
+![ആദ്യ ലോഗിനിലെ സ്വാഗത സ്ക്രീൻ](screenshots/welcome.jpg)
+![സ്വാഗതം: ലൈറ്റ് അല്ലെങ്കിൽ ഡാർക്ക് തീമും ആക്സന്റ് നിറവും](screenshots/welcome-appearance.jpg)
+![കൺട്രോൾ സെന്റർ: Wi-Fi, ഡാർക്ക് മോഡ്, നൈറ്റ് ലൈറ്റ്, ശല്യപ്പെടുത്തരുത്](screenshots/control-center.jpg)
+![ബാറിലെ തീയതിയിൽ ക്ലിക്ക് ചെയ്യുമ്പോൾ തുറക്കുന്ന കലണ്ടർ](screenshots/calendar.jpg)
+![ക്ലിപ്പ്ബോർഡ് ചരിത്രം (Super + V)](screenshots/clipboard.jpg)
+![വീഡിയോ കോളുകൾക്കായി ക്യാമറയുടെ ഓട്ടോമാറ്റിക് ഫ്രെയിമിംഗ്](screenshots/camera.jpg)
+![ഡിസ്‌പ്ലേകൾ: മേശപ്പുറത്തുള്ളതുപോലെ വലിച്ചിട്ട് ക്രമീകരിക്കുക](screenshots/displays.jpg)
+![ഇഫക്റ്റുകൾ: ഹോട്ട് കോർണറുകളും പുസ്തകത്താളുകൾ പോലെയുള്ള Alt+Tab-ഉം](screenshots/effects.jpg)
+![ഡോക്കും Lingmo Arch വാൾപേപ്പറുമുള്ള ഡെസ്ക്ടോപ്പ്](screenshots/desktop.jpg)
+![ഫയൽ മാനേജർ](screenshots/files.jpg)
+![Dracula തീമുള്ള ടെർമിനൽ](screenshots/terminal.jpg)
+![Spotlight ഒരു കണക്ക് ചെയ്യുന്നു](screenshots/spotlight.jpg)
+![ക്രമീകരണങ്ങൾ, രൂപഭാവം പേജ്](screenshots/settings.jpg)

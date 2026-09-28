@@ -1,0 +1,15 @@
+## Snímky obrazovky
+
+![Uvítanie pri prvom prihlásení](screenshots/welcome.jpg)
+![Uvítanie: svetlá alebo tmavá téma a farba zvýraznenia](screenshots/welcome-appearance.jpg)
+![Ovládacie centrum: Wi-Fi, tmavý režim, nočné svetlo a nerušiť](screenshots/control-center.jpg)
+![Kalendár po kliknutí na dátum v paneli](screenshots/calendar.jpg)
+![História schránky (Super + V)](screenshots/clipboard.jpg)
+![Automatické zarámovanie kamery pri videohovoroch](screenshots/camera.jpg)
+![Obrazovky: usporiadajte ich ťahaním tak, ako stoja na stole](screenshots/displays.jpg)
+![Efekty: aktívne rohy a Alt+Tab v podobe listov knihy](screenshots/effects.jpg)
+![Pracovná plocha s dokom a tapetou Lingmo Arch](screenshots/desktop.jpg)
+![Správca súborov](screenshots/files.jpg)
+![Terminál s témou Dracula](screenshots/terminal.jpg)
+![Spotlight počíta príklad](screenshots/spotlight.jpg)
+![Nastavenia, stránka Vzhľad](screenshots/settings.jpg)

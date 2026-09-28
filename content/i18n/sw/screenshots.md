@@ -1,0 +1,15 @@
+## Picha za skrini
+
+![Karibu unapoingia mara ya kwanza](screenshots/welcome.jpg)
+![Karibu: mandhari angavu au meusi na rangi ya msisitizo](screenshots/welcome-appearance.jpg)
+![Kituo cha udhibiti: Wi-Fi, hali ya giza, mwanga wa usiku na usinisumbue](screenshots/control-center.jpg)
+![Kalenda unapobofya tarehe kwenye upau](screenshots/calendar.jpg)
+![Historia ya ubao wa kunakili (Super + V)](screenshots/clipboard.jpg)
+![Kupanga fremu kiotomatiki kwa kamera kwenye simu za video](screenshots/camera.jpg)
+![Skrini: ziburute kuzipanga kama zilivyo mezani](screenshots/displays.jpg)
+![Madoido: pembe amilifu na Alt+Tab kama kurasa za kitabu](screenshots/effects.jpg)
+![Eneo-kazi lenye dock na mandharinyuma ya Lingmo Arch](screenshots/desktop.jpg)
+![Kidhibiti cha faili](screenshots/files.jpg)
+![Terminal yenye mandhari ya Dracula](screenshots/terminal.jpg)
+![Spotlight ikifanya hesabu](screenshots/spotlight.jpg)
+![Mipangilio, ukurasa wa Mwonekano](screenshots/settings.jpg)

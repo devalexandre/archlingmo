@@ -1,0 +1,15 @@
+## تصاویر صفحه
+
+![خوش‌آمدگویی در نخستین ورود](screenshots/welcome.jpg)
+![خوش‌آمدگویی: پوستهٔ روشن یا تیره و رنگ تأکیدی](screenshots/welcome-appearance.jpg)
+![مرکز کنترل: Wi-Fi، حالت تیره، نور شب و مزاحم نشوید](screenshots/control-center.jpg)
+![تقویم با کلیک روی تاریخ در نوار](screenshots/calendar.jpg)
+![تاریخچهٔ کلیپ‌بورد (Super + V)](screenshots/clipboard.jpg)
+![کادربندی خودکار دوربین برای تماس تصویری](screenshots/camera.jpg)
+![نمایشگرها: با کشیدن، آن‌ها را همان‌طور که روی میز هستند بچینید](screenshots/displays.jpg)
+![جلوه‌ها: گوشه‌های فعال و Alt+Tab به شکل ورق‌های کتاب](screenshots/effects.jpg)
+![میزکار با داک و کاغذدیواری Lingmo Arch](screenshots/desktop.jpg)
+![مدیر فایل](screenshots/files.jpg)
+![ترمینال با پوستهٔ Dracula](screenshots/terminal.jpg)
+![Spotlight در حال انجام یک محاسبه](screenshots/spotlight.jpg)
+![تنظیمات، صفحهٔ ظاهر](screenshots/settings.jpg)

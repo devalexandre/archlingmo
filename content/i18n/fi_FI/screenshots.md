@@ -1,0 +1,15 @@
+## Kuvakaappaukset
+
+![Tervetuloa-näkymä ensimmäisellä kirjautumisella](screenshots/welcome.jpg)
+![Tervetuloa: vaalea tai tumma teema ja korostusväri](screenshots/welcome-appearance.jpg)
+![Ohjauskeskus: Wi-Fi, tumma tila, yövalo ja älä häiritse](screenshots/control-center.jpg)
+![Kalenteri avautuu palkin päivämäärää napsauttamalla](screenshots/calendar.jpg)
+![Leikepöydän historia (Super + V)](screenshots/clipboard.jpg)
+![Kameran automaattinen kuvarajaus videopuheluissa](screenshots/camera.jpg)
+![Näytöt: järjestä ne vetämällä samoin kuin ne ovat pöydälläsi](screenshots/displays.jpg)
+![Tehosteet: aktiiviset kulmat ja Alt+Tab kirjan sivuina](screenshots/effects.jpg)
+![Työpöytä, telakka ja Lingmo Arch -taustakuva](screenshots/desktop.jpg)
+![Tiedostonhallinta](screenshots/files.jpg)
+![Pääte Dracula-teemalla](screenshots/terminal.jpg)
+![Spotlight laskemassa](screenshots/spotlight.jpg)
+![Asetukset, Ulkoasu-sivu](screenshots/settings.jpg)
