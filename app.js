@@ -253,7 +253,7 @@ async function enhanceFeatures(section) {
         image.loading = "lazy";
         image.className = "feature-image";
         image.addEventListener("click", () => {
-          lightbox.querySelector("img").src = feature.image.replace("screenshots/features/", "screenshots/");
+          lightbox.querySelector("img").src = feature.full || feature.image;
           lightbox.querySelector("img").alt = image.alt;
           lightbox.showModal();
         });
