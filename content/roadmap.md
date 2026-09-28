@@ -8,11 +8,15 @@ As prioridades vêm do que mais aparece nos fóruns e nas análises de outras di
 medo de uma atualização quebrar o sistema, drivers, instalar programas sem terminal e
 cuidar do computador sem precisar ser técnico.
 
-### 28/09 a 08/11 · Programas sem complicação
+### 28/09 a 08/11 · Programas sem complicação (e seguros)
 
-- [ ] **Loja de aplicativos**: Flathub e repositórios do Arch num só lugar, com notas e fotos; pacotes do AUR só com aviso
-- [ ] **Abrir programas do Windows**: ao clicar num .exe, sugere uma alternativa para Linux ou roda com Bottles/Wine
+- [ ] **Loja de aplicativos**: Flathub e repositórios do Arch num só lugar, com notas, fotos e as permissões de cada app antes de instalar
+- [ ] **Instalar arrastando**, como no Mac: dois cliques num .exe, .deb, .rpm ou AppImage e arraste para **Aplicativos**
+- [ ] **Tudo de fora roda numa caixa isolada**: programas do Windows (Bottles), pacotes .deb/.rpm (Distrobox) e AppImages não enxergam o seu sistema nem os seus arquivos sem permissão
+- [ ] Página **Caixas** nas Configurações: ver, dar ou tirar acesso a arquivos, rede, câmera e microfone, e apagar uma caixa
+- [ ] **Apps Android** (APK) numa caixa, com o Waydroid, aparecendo no lançador como qualquer app
 - [ ] **Jogos em um clique**: Steam, Proton e modo jogo, com aviso para jogos com anti-cheat que não funcionam no Linux
+- [ ] **Jogos nativos**: clássicos recompilados para o PC (Zelda, Super Mario 64, Star Fox, Mario Kart), usando a sua própria cópia do jogo
 
 ### 09/11 a 13/12 · Cuidar do computador
 
