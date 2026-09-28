@@ -8,7 +8,13 @@ As prioridades vêm do que mais aparece nos fóruns e nas análises de outras di
 medo de uma atualização quebrar o sistema, drivers, instalar programas sem terminal e
 cuidar do computador sem precisar ser técnico.
 
-### 28/09 a 25/10 · Cuidar do computador
+### 28/09 a 08/11 · Programas sem complicação
+
+- [ ] **Loja de aplicativos**: Flathub e repositórios do Arch num só lugar, com notas e fotos; pacotes do AUR só com aviso
+- [ ] **Abrir programas do Windows**: ao clicar num .exe, sugere uma alternativa para Linux ou roda com Bottles/Wine
+- [ ] **Jogos em um clique**: Steam, Proton e modo jogo, com aviso para jogos com anti-cheat que não funcionam no Linux
+
+### 09/11 a 13/12 · Cuidar do computador
 
 - [ ] **Monitor do sistema** (Ctrl + Shift + Esc): processador, memória, disco, rede e placa de vídeo, lista de apps e processos e botão "Encerrar"
 - [ ] **Limpeza**: caches, lixeira, pacotes que ninguém usa, cache de atualizações e runtimes Flatpak sem uso, com o espaço liberado antes de confirmar
@@ -16,18 +22,12 @@ cuidar do computador sem precisar ser técnico.
 - [ ] **Informações do sistema** com um botão "Copiar relatório" para pedir ajuda no Discord ou em fóruns
 - [ ] Desfoque e fundo da câmera com recorte de qualidade (cabelo, fone e ombros)
 
-### 26/10 a 06/12 · Atualizar sem medo
+### 14/12 a 31/01/2027 · Atualizar sem medo
 
 - [ ] **Ponto de restauração automático** antes de cada atualização (btrfs), com opção de voltar direto pelo menu de inicialização
 - [ ] Botão **"Voltar para ontem"** nas Configurações e no atualizador
 - [ ] O atualizador mostra as notícias do Arch em português simples e segura atualizações que pedem cuidado manual
 - [ ] **Gerenciador de drivers**: detecta a placa de vídeo (NVIDIA, AMD, Intel) e instala o driver certo, mantendo-o em dia com o kernel
-
-### 07/12 a 31/01/2027 · Programas sem complicação
-
-- [ ] **Loja de aplicativos**: Flathub e repositórios do Arch num só lugar, com notas e fotos; pacotes do AUR só com aviso
-- [ ] **Abrir programas do Windows**: ao clicar num .exe, sugere uma alternativa para Linux ou roda com Bottles/Wine
-- [ ] **Jogos em um clique**: Steam, Proton e modo jogo, com aviso para jogos com anti-cheat que não funcionam no Linux
 
 ### 01/02 a 31/03/2027 · Hardware do dia a dia
 
